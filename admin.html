@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="card fade" id="loginBox">
+    <h2>Admin Login</h2>
+    <input id="pass" type="password" placeholder="Enter Password">
+    <button onclick="login()">Login</button>
+</div>
+
+<div class="card fade" id="adminPanel" style="display:none;">
+    <h2>Update Order Status</h2>
+
+    <input id="orderId" placeholder="Order ID">
+    <select id="status">
+        <option>Preparing</option>
+        <option>Baking</option>
+        <option>Ready</option>
+        <option>Out for Delivery</option>
+        <option>Delivered</option>
+    </select>
+
+    <button onclick="updateStatus()">Update</button>
+</div>
+
+<script>
+function login(){
+    if(document.getElementById("pass").value === "admin123"){
+        document.getElementById("loginBox").style.display = "none";
+        document.getElementById("adminPanel").style.display = "block";
+    } else {
+        alert("Wrong Password");
+    }
+}
+
+function updateStatus(){
+    alert("Since GitHub Pages is static, status must be updated manually in orders.json");
+}
+</script>
+
+</body>
+</html>
