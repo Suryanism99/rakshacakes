@@ -1,0 +1,3416 @@
+<html lang="en">
+
+<head>
+    <meta name="google-site-verification" content="jP5eF1u5I7WPcsZnQMTdXurtdnhczQ5xGjppCawBz6E">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="title" content="HurryUp | Book Cabs, Luxury Rentals, Travellers & Transport">
+    <meta name="description" content="From outstation cabs to group travel & transport, HurryUp offers rides, luxury rentals & tempo
+    travellers with affordable, reliable service across India.">
+    <meta name="keywords" content="Outstation cabs, outstation taxi service, taxi service near me, taxi near me, one-way taxi,
+    one-way cab, one-way drop taxi, taxi service, taxi booking, online cab booking, online truck booking, online lorry
+    booking, freight forwarding, freight forwarding service, send parcel from home, personal courier service, send a parcel,
+    package courier service, intercity courier service, parcel courier services, luxury cars for rent, car rental luxury
+    cars, luxury sedan rental, luxury vehicle rental, car rental luxury cars, wedding car rentals">
+    <meta name="csrf-token" content="ndXvzZa8FyoyikPzg0xrZ1aUFmH33jwHEXPZcjVW">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="HurryUp | Book Cabs, Luxury Rentals, Travellers & Transport">
+    <meta property="og:site_name" content="HurryUp Cabs">
+    <meta property="og:description" content="From outstation cabs to group travel & transport, HurryUp offers rides, luxury rentals & tempo
+    travellers with affordable, reliable service across India.">
+    <meta property="og:url" content="https://hurryupcabs.com">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://hurryupcabs.com/assets/apple-touch-icon.png">
+    <meta property="og:image:url" content="https://hurryupcabs.com/assets/apple-touch-icon.png">
+    <meta property="og:image:width" content="250">
+    <meta property="og:image:height" content="250">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@HurryupCabs">
+    <meta name="twitter:title" content="HurryUp | Book Cabs, Luxury Rentals, Travellers & Transport">
+    <meta name="twitter:description" content="From outstation cabs to group travel & transport, HurryUp offers rides, luxury rentals & tempo
+    travellers with affordable, reliable service across India.">
+    <meta name="twitter:image" content="https://hurryupcabs.com/assets/apple-touch-icon.png">
+
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="HurryUp | Book Cabs, Luxury Rentals, Travellers & Transport">
+    <meta itemprop="description" content="From outstation cabs to group travel & transport, HurryUp offers rides, luxury rentals & tempo
+    travellers with affordable, reliable service across India.">
+    <meta itemprop="image" content="https://hurryupcabs.com/assets/icon.png">
+
+    <link rel="canonical" href="https://hurryupcabs.com">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="56x56" href="https://hurryupcabs.com/assets/apple-touch-icon.png">
+
+    
+    <link rel="apple-touch-icon-precomposed" sizes="56x56" href="https://hurryupcabs.com/assets/apple-touch-icon.png">
+    <link rel="icon" sizes="192x192" href="https://hurryupcabs.com/assets/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://hurryupcabs.com/assets/favicon-16x16.png">
+    <link rel="preload" href="https://hurryupcabs.com/assets/fontfamily/Muli.woff2" as="font" type="font/woff2" crossorigin="">
+
+    <title>HurryUp | Book Cabs, Luxury Rentals, Travellers & Transport</title>
+
+    <!-- Meta Pixel CodeComment on 11-8-2025 --> 
+    
+
+    <link rel="shortcut icon" href="https://hurryupcabs.com/assets/favicon.ico">
+    <link rel="icon" href="https://hurryupcabs.com/assets/icon.png" type="image/png">
+    
+    
+    <link href="https://hurryupcabs.com/assets/css/hup-css.css" rel="stylesheet">
+
+    <link href="https://hurryupcabs.com/assets/css/footer.css" rel="stylesheet" media="print" onload="this.media='all'">
+    <link href="https://hurryupcabs.com/assets/css/hurry-header.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://hurryupcabs.com/assets/css/pages/header.css" media="print" onload="this.media='all'">
+    <link href="https://hurryupcabs.com/assets/css/color.css" rel="stylesheet" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://hurryupcabs.com/assets/css/pages/login_modal.css" media="print" onload="this.media='all'">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://hurryupcabs.com/assets/css/custom.css?v=1763728736" media="print" onload="this.media='all'">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+
+    
+
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" as="style" onload="this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    </noscript>
+
+    
+
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" as="style" onload="this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+    </noscript>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css" media="print" onload="this.media='all'">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer" fetchPriority="high"></script>
+
+
+    <style>
+        .razorpay-payment-button {
+            color: #ffffff !important;
+            background-color: #7266ba;
+            border-color: #7266ba;
+            font-size: 14px;
+            padding: 10px;
+        }
+    </style>
+
+    <style>
+        @font-face {
+            font-family: 'MuliSemiBold';
+            src: url('https://hurryupcabs.com/assets/fontfamily/Muli-SemiBold.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+         @font-face {
+            font-family: 'MuliBold';
+            src: url('https://hurryupcabs.com/assets/fontfamily/Muli-Bold.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+         @font-face {
+            font-family: 'MuliExtraBold';
+            src: url('https://hurryupcabs.com/assets/fontfamily/Muli-ExtraBold.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+    </style>
+
+    <script>
+        window.addEventListener('load', function() {
+            const gtmScript = document.createElement('script');
+            gtmScript.src = 'https://www.googletagmanager.com/gtag/js?id=AW-16662833144';
+            document.head.appendChild(gtmScript);
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push({
+                    'event': 'pageview'
+                });
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'AW-16662833144');
+        });
+    </script>
+
+    
+
+        
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WVZDKS9Z');
+    </script>
+
+
+
+    <style>
+        .bg_light_gray {
+            background-color: #f4f4f53d !important;
+        }
+    </style>
+
+</head>
+
+<body>
+    <img alt="facebook no script" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=650624720637346&ev=PageView&noscript=1">
+
+    <img alt="another facebook no script" height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=3711080379036011&ev=PageView&noscript=1">
+
+
+    <!-- Start Preloader -->
+    <div class="asws-preloader">
+        <div class="loader-wrapper">
+            <div class="loader"></div>
+        </div>
+    </div>
+
+    <style>
+    .modal-backdrop {
+        z-index: 1040 !important;
+    }
+
+    .modal {
+        z-index: 1050 !important;
+    }
+
+    .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 0!important;
+        align-items: center;
+    }
+
+    /* optional hamburger animation when active */
+    .navbar-toggler.active .navbar-toggler-icon {
+        background-image: none;
+        position: relative;
+    }
+    .navbar-toggler.active .navbar-toggler-icon::before,
+    .navbar-toggler.active .navbar-toggler-icon::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: #fff;
+    }
+    .navbar-toggler.active .navbar-toggler-icon::before {
+        top: 50%;
+        transform: rotate(45deg);
+    }
+    .navbar-toggler.active .navbar-toggler-icon::after {
+        top: 50%;
+        transform: rotate(-45deg);
+    }
+</style>
+
+<header class="hurry-header">
+    <nav class="navbar navbar-expand-lg navbar-light" id="foxapp_menu">
+        <div class="container">
+            <a class="navbar-brand py-3 text-white" href="https://hurryupcabs.com/" style="font-family: MuliExtraBold;" aria-label="HurryUp Cabs Home">
+                HURRYUP
+            </a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu-center" aria-controls="menu-center" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="menu-center">
+                <ul class="navbar-nav ml-auto align-items-center mb-4 mb-md-0">
+                    
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/services">Services</a>
+                        </li>
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/return-booking">Return Trip</a>
+                        </li>
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/monthly-rental">Monthly Rentals</a>
+                        </li>
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/franchise">Franchise</a>
+                        </li>
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/drivers">Driver</a>
+                        </li>
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/hire-driver">Hire Driver</a>
+                        </li>
+                                            <li class="nav-item">
+                            <a class="nav-link anchor fontSize" href="https://hurryupcabs.com/blogs">Blogs</a>
+                        </li>
+                    
+                                            <li>
+                            <button class="bg-white rounded btn shadow-none border-0 px-4 text-dark" data-login-button="true" data-bs-target="#loginModal" data-bs-toggle="modal" type="button">Login</button>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<script async src="https://hurryupcabs.com/assets/js/pages/header.js"></script>
+    
+    <link rel="preload" fetchpriority="high" as="image" href="https://hurryupcabs.com/assets/hero-image.webp">
+    <link rel="stylesheet" href="https://hurryupcabs.com/assets/css/pages/home.css">
+    <link href="https://hurryupcabs.com/assets/css/slick.css" rel="stylesheet">
+    <link href="https://hurryupcabs.com/assets/css/slick-theme.css" rel="stylesheet">
+    <link href="https://hurryupcabs.com/assets/css/hup-css.css" rel="stylesheet" fetchpriority="high">
+    <link href="https://hurryupcabs.com/assets/css/responsive.css" rel="stylesheet">
+
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "TaxiService",
+        "name": "Hurryup Cabs",
+        "description": "Hurryup Cabs is an online taxi booking app/website where users can offer their own rates to partners, and partners can accept bookings without commission. The service is available in each city and village of India.",
+        "url": "https://hurryupcabs.com/",
+        "sameAs": [
+        "https://www.facebook.com/Hurryupcabs",
+        "https://www.instagram.com/hurryup_cabs",
+        "https://x.com/HurryupCabs",
+        "https://www.linkedin.com/company/hurryup-cabs/"
+        ],
+        "logo": "https://hurryupcabs.com/assets/hurryup_cabs_logo.png",
+        "image": "https://hurryupcabs.com/assets/Hurryup_Cabs-Taxi_Service.png",
+        "serviceType": [
+        "One way",
+        "Round Trips",
+        "Hourly Rental",
+        "Stand Ride",
+        "B2B Bookings",
+        "Tempo Traveller",
+        "Pet Friendly Cab",
+        "Airport taxi",
+        "Monthly Rentals",
+        "Corporate Cabs"
+        ],
+        "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "itemListElement": [
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "One way"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Round Trips"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Hourly Rental"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Stand Ride"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "B2B Bookings"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Tempo Traveller"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Pet Friendly Cab"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Airport taxi"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Monthly Rentals"
+            }
+            },
+            {
+            "@type": "Offer",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Corporate Cabs"
+            }
+            }
+        ]
+        },
+        "additionalType": "https://schema.org/Transportation"
+    }
+    </script>
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name":"Hurryup Cabs",
+            "category":"Cab Services",
+            "url":"https://hurryupcabs.com/",
+            "description":"Hurryup Cabs is an online taxi booking app/website where users can offer their own rates to partners, and partners can accept bookings without commission. The service is available in each city and village of India.",
+            "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "59999"
+            },
+            "audience": {
+            "@type":"audience",
+            "description":"5999 Reviews",
+            "audienceType" : "Customer"
+            },
+            "offers": {
+            "@type": "AggregateOffer",
+            "lowPrice": "1288",
+            "highPrice": "1899",
+            "offerCount": "4",
+            "priceCurrency": "INR"
+            }
+        }
+        </script>
+
+
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                        {
+                "@type": "Question",
+                "name": "How to book a Truck online with HurryUp Cabs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can easily book a Truck online with the HurryUp Cabs mobile app or website. Choose your pickup and drop location, select the truck of your choice, offer your fare and confirm your ride. You can also contact us directly at our +91 708 112 3339 for simple bookings."
+                }
+            }  ,                         {
+                "@type": "Question",
+                "name": "How much will it cost to hire a luxury car for a wedding/business?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The cost of hiring a luxury car depends on the car model, city, hours, and distance. We provide luxury rentals at fair and transparent rates, and you can choose from different packages for weddings, parties, or business travel according to your budget. Also, you can offer your price to hire a luxury car for wedding or business."
+                }
+            }  ,                         {
+                "@type": "Question",
+                "name": "Where can I get a luxury car rental service in India?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can get a reliable luxury car rental service with HurryUp Cabs across all major cities in India. You can rent a luxury car from top brands like Mercedes, BMW, Audi, Rolls Royce, Range Rover, Jaguar and more. All our cars come with professional chauffeurs to give you a safe and comfortable ride."
+                }
+            }  ,                         {
+                "@type": "Question",
+                "name": "Can you rent Luxury cars in India?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, you can rent luxury cars anywhere in India with luxury car rental services. We provide premium and luxury cars for weddings, business events, VIP travel, and special occasions."
+                }
+            }  ,                         {
+                "@type": "Question",
+                "name": "How Can I Book a cab or taxi online with HurryUp Cabs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can easily book a cab or taxi online with the HurryUp Cabs mobile app or website. Choose your pickup and drop location, select the car of your choice, offer your fare and confirm your ride. You can also contact us directly at our taxi number +91 708 112 3339 for simple bookings."
+                }
+            }  ,                         {
+                "@type": "Question",
+                "name": "What type of Services Does HurryUp provide?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "HurryUp Cabs provides all kinds of travel and transport solutions in one place. We offer trusted cab and taxi services, luxury car rentals, tempo travellers for groups, transport services, and complete logistics solutions. We also provide standby car rental plans so you never have to worry about last-minute travel needs."
+                }
+            }  ,                         {
+                "@type": "Question",
+                "name": "Why Choose HurryUp For Transport Service?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You should choose HurryUp for Transport Service because we focus on trust, safety, and timely service. Our team provides well-maintained vehicles, experienced drivers, and smooth bookings at affordable prices. We make sure your travel or goods transport is always hassle-free."
+                }
+            }                     ]
+        
+    }
+    </script>
+    <script type="application/ld+json">{
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Hurryupcabs"
+      }]
+    }</script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Hurryup Cabs",
+        "image": "https://hurryupcabs.com/images/city_images/1726123031.webp",
+        "@id": "https://hurryupcabs.com/",
+        "url": "https://hurryupcabs.com/",
+        "telephone": "070811 23339",
+        "priceRange": "₹500 - ₹10000",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Vardan Khand, Sector 1, Gomti Nagar",
+            "addressLocality": "Lucknow",
+            "postalCode": "226010",
+            "addressCountry": "IN"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 26.8378409,
+            "longitude": 81.00851569999999
+        } ,
+        "sameAs": [
+            "https://m.facebook.com/Hurryupcabs/",
+            "https://x.com/hurryupcabs",
+            "https://www.instagram.com/hurryup_cabs/?hl=en",
+            "https://youtube.com/@hurryupcabs9224?si=Qw9B7p_xilydXhYa",
+            "https://in.linkedin.com/company/hurryup-cabs",
+            "https://hurryupcabs.com/"
+        ] 
+    }
+    </script>
+
+
+    
+    <!-- Start Header -->
+    <section class="hero-section section-padding outerContainer" data-bg="theme-bg" id="index">
+        <div class="container innerContainer position-relative" style="margin-top: -10px;">
+            <div class="row">
+                <div class="col-12 col-lg-6 text-sm-start d-flex flex-column justify-content-center">
+                    <h1 class="acs-hero-heading text-white d-inline-block text-lg-start text-center mb-3 text-capitalize">
+                        HurryUp – Trusted Cabs, Travellers, Transport &amp; Luxury Car Rentals</h1>
+                    <p class="mb-3 text-white acs-min-text d-inline-block text-center text-lg-start mt-2 mt-md-0">
+                        
+                        Your all-in-one partner for cabs, travellers, transport &amp; luxury travel solutions.
+                    </p>
+
+                    
+                    <div class="d-flex mb-3 row justify-content-center justify-content-lg-start flex-wrap row-gap-3 mx-0">
+                        <div class="col-4 flex-grow-1 px-1">
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hurryup.customer&pcampaignid=web_share" class="btn bg-none text-white border-white rounded-5 py-1 px-3 px-lg-5 py-lg-2 w-100 overflow-hidden d-flex align-items-center justify-content-center">
+                                <span class="acs-small-icon"><i class="fa-brands fa-google-play me-2"></i></span>
+                                <span class="acs-small-text">Consumer</span></a>
+                        </div>
+                        <div class="col-4 flex-grow-1 px-1">
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hurryup.partner" class="btn btn-none text-white border-white rounded-5 py-1 px-3 px-lg-5 py-lg-2 w-100 overflow-hidden d-flex align-items-center justify-content-center">
+                                <span class="acs-small-icon"><i class="fa-brands fa-google-play me-2"></i></span>
+                                <span class="acs-small-text">Partner</span></a>
+                        </div>
+                        <div class="col-4 flex-grow-1 px-1">
+                            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.hurryup.drivers" class="btn btn-none text-white border-white rounded-5 py-1 px-3 px-lg-5 py-lg-2 w-100 overflow-hidden d-flex align-items-center justify-content-center">
+                                <span class="acs-small-icon"><i class="fa-brands fa-google-play me-2"></i></span>
+                                <span class="acs-small-text">Driver</span></a>
+                        </div>
+                    </div>
+                    
+                    <picture>
+                        <source srcset="https://hurryupcabs.com/assets/hero-image.webp" media="(min-width: 992px)">
+                        <img src="" alt="" role="presentation" aria-hidden="true">
+                    </picture>
+
+                </div>
+                <div class="col-12 col-lg-6 align-self-center mt-lg-0 mt-3">
+                    <div class="d-flex ps-lg-5 align-items-center innerContainer1 justify-content-lg-end justify-content-xl-center justify-content-center">
+                        <div class="col-xl-10 col-md-11 col-12 mb-4 mb-md-0 p-0">
+                            <div class="serviceForm overflow-hidden">
+                                <div id="service-loader" style="position: absolute; inset: 0; z-index: 10; background: rgba(255,255,255,0.8); display: flex; align-items: center; justify-content: center;">
+                                    <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;">
+                                        <span class="visually-hidden">Loading...</span>
+                                    </div>
+                                </div>
+                                <meta name="csrf-token" content="ndXvzZa8FyoyikPzg0xrZ1aUFmH33jwHEXPZcjVW">
+
+        <link rel="stylesheet" href="https://hurryupcabs.com/assets/css/pages/service_form.css" media="print" onload="this.media='all'">
+    <style>
+        .pickLocationItem,
+        .dropLocationItem {
+            cursor: pointer;
+        }
+
+        .spinner-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            /* semi-transparent dark background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* z-index: 9999; */
+            backdrop-filter: blur(2px);
+            border-radius: 6px;
+            /* subtle blur for modern effect */
+        }
+
+        .spinner {
+            width: 20px;
+            height: 20px;
+            border: 4px solid rgba(255, 255, 255, 0.2);
+            /* Light transparent border */
+            border-top: 4px solid #00bfff;
+            /* Bright cyan-blue accent */
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            box-shadow: 0 0 8px rgba(0, 255, 255, 0.3);
+            /* soft glow */
+        }
+
+        .action-icon {
+         
+            place-items: center;
+        }
+        .clearLocation{
+            display: none;
+            cursor: pointer;
+        }
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+
+
+    <form id="serviceForm" autocomplete="off" class="gap-1 bg-white p-0 rounded-4">
+        
+        <input type="hidden" name="consumerName" id="consumerName">
+        <input type="hidden" name="consumerMobile" id="consumerMobile">
+        <div class="w-100" style="margin-bottom: 30px;">
+            <ul class="nav nav-pills mb-3 gap-1 w-100 d-flex justify-content-between" id="pills-tab" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <div class="tabButton notPassRental passBT" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-selected="true" value="1">
+                        Local
+                    </div>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <div class="tabButton active notPassRental passBT" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-selected="false" value="2">
+                        One Way</div>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <div class="tabButton notPassRental passBT" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-selected="false" value="3">
+                        Round Trip</div>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <div class="tabButton passRental passBT" id="pills-Rental-tab" data-bs-toggle="pill" data-bs-target="#pills-Rental" type="button" role="tab" aria-selected="false" value="4">
+                        Rental</div>
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="demo" class="alert alert-warning" style="display: none;"></div>
+        <div id="loadMap">
+
+            <!-- Pickup Location -->
+            <div class="form-group mt-0 mb-1 py-2">
+                <div class="bg-light rounded p-2 position-relative location-input" id="validateInput">
+                    <div class="d-flex align-items-center">
+                        <input class="form-control shadow-none bg-light border-0" type="text" id="pikup_address" name="pikup_address[]" required placeholder="From Pickup Address" autocomplete="off" area-label="Pickup Address">
+                        <span class="action-icon clearLocation me-2" id="clearPickupIcon">
+                            <i class="fa fa-times" aria-hidden="true"></i>
+                        </span>
+                        <span class="action-icon" id="currentLocation" style="width: 24px">
+                            <svg width="1em" height="1em" viewBox="0 0 24 24" style="color: #000; font-size: 20px" fill="#ffffff" aria-label="Pickup location" class="pe-location-fetch" role="button" tabindex="0" />
+                        </span>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <!-- Drop Locations -->
+            <div id="dropLocations">
+                <!-- First destination row with only remove button initially (disabled) -->
+                <div class="destination-row" id="destination-1">
+                    <div class="form-group mt-0 mb-1 pb-2 position-relative destination-input" id="manageDropInput">
+                        <div class="bg-light rounded p-2 d-flex gap-2" id="validateInput">
+                            <div class="display d-flex align-items-center flex-grow-1">
+                                <input class="form-control shadow-none bg-light border-0" type="text" autocomplete="off" id="drop_address" name="drop_address[]" placeholder="To 1" aria-label="Drop Address">
+                            </div>
+                            <span class="action-icon clearLocation me-2" id="clearDropIcon">
+                                <i class="fa fa-times" aria-hidden="true"></i>
+                            </span>
+                            <div class="d-flex align-items-center" id="buttonContainer">
+                                <button type="button" class="shadow-none action-button remove-destination btn btn-dark d-none" aria-label="Remove Destination" disabled>
+                                    <i class="fas fa-minus"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Schedule Time Field -->
+        <div class="d-md-flex gap-md-3 d-block">
+            <div class="form-group mt-0 mb-1 pb-2">
+                <div class="input-container overflow-hidden bg-light rounded">
+                    <div class="display d-block">
+                        <div class="d-flex gap-sm-0 gap-3 row flex-grow-1">
+                            <div class="d-flex d-md-block align-items-center">
+                                <input class="form-control custom-input bg-light border-0" type="datetime-local" autocomplete="off" id="booking_schedule_date" name="booking_schedule_date" required style="background-color: #f9f9f9">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group mt-0 mb-1 pb-2">
+                <div class="input-container overflow-hidden bg-light rounded">
+                    <div class="display">
+                        <div class="d-flex gap-sm-0 gap-3 row flex-grow-1">
+                            <div class="d-flex d-md-block align-items-center">
+                                <input class="form-control custom-input bg-light border-0" type="datetime-local" autocomplete="off" id="booking_schedule_time" name="booking_schedule_time" required style="background-color: #f9f9f9">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group mt-0 mb-1 py-1" id="rentalInputField" style="display: none">
+            <div class="d-flex justify-content-between align-items-center overflow-x-scroll rentalTime gap-2">
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem active p-2 border-success" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="1">
+                            1 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="10">
+                            10 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="2">
+                            2 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="20">
+                            20 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="3">
+                            3 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="30">
+                            30 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="4">
+                            4 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="40">
+                            40 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="5">
+                            5 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="50">
+                            50 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="6">
+                            6 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="60">
+                            60 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="7">
+                            7 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="70">
+                            70 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="8">
+                            8 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="80">
+                            80 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="9">
+                            9 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="90">
+                            90 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="10">
+                            10 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="100">
+                            100 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="11">
+                            11 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="110">
+                            110 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="12">
+                            12 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="120">
+                            120 km
+                        </p>
+                    </div>
+                                    <div class="p-1 px-2 rounded text-center border rentalTimeItem p-2" style="background-color: #f9f9f9;">
+                        <p class="fw-bold text-nowrap m-0 rentalTimeInput" data-time="24">
+                            24 hr
+                        </p>
+                        <p class="text-secondary text-nowrap m-0 rentalDistance rentalDistanceInput" data-distance="200">
+                            200 km
+                        </p>
+                    </div>
+                            </div>
+        </div>
+
+        <div class="p-0 flex-nowrap mt-3 mb-1 border-0 w-100 position-relative">
+            
+                             <div id="spinner" style="display: none;">
+                </div>
+                        <button type="button" class="userLogin validateInput fs-md-3 m-btn w-100 HurryUp Cabs-btn border text-white rounded py-2" style="background: #212529">Check Rate And Book Now</button>
+        </div>
+    </form>
+
+    
+
+    <script>
+        const consumerId = "";
+        const ConsumerName = "";
+        const ConsumerMobile = "";
+        const isCityPage = "";
+        const isCityRoutePage = "";
+
+        let cityToLat = cityToLong = cityFromLat = cityFromLong = cityLat = null;
+
+        
+        
+        if (typeof ApiRoutes === 'undefined') {
+            var ApiRoutes = {};
+        }
+
+        ApiRoutes['bookingEnquiry'] = "https://hurryupcabs.com/booking-enquiry";
+        ApiRoutes['bookingEnquiryNew'] = "https://hurryupcabs.com/booking-enquiry-new";
+        ApiRoutes['getBookingRates'] = "https://hurryupcabs.com/booking-rates";
+        ApiRoutes['getCityName'] = "https://hurryupcabs.com/api/getCityName";
+        ApiRoutes['AutoCompleteApi'] = "https://hurryupcabs.com/maps/api/place/autocomplete";
+        ApiRoutes['PlaceDetails'] = "https://hurryupcabs.com/maps/api/place/details";
+        ApiRoutes['AddMultipleLocation'] = "https://hurryupcabs.com/add-multiple-location";
+        ApiRoutes['RemoveMultipleLocation'] = "https://hurryupcabs.com/remove-multiple-location";
+        ApiRoutes['GetAllMultipleLocation'] = "https://hurryupcabs.com/get-all-multiple-location";
+
+
+        // console.log('GLOBAL VARIABLES : ', consumerId, consumerName, consumerMobile, isCityPage,isCityRoutePage, ApiRoutes);
+        console.log('GLOBAL VARIABLES : ', isCityPage, isCityRoutePage);
+    </script>
+
+    
+
+    
+
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div></section>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Wait until browser finishes rendering everything inside #service-content
+            requestAnimationFrame(() => {
+                document.getElementById("service-loader").style.display = "none";
+            });
+        });
+    </script>
+    <!-- End Header -->
+
+    <!-- Start Other Services -->
+    <section class="our-services-section section-padding" id="ourServices">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h2 class="section-heading theme_text">Travel, Transport &amp; Rentals — All in One Place</h2>
+                <p class="section-subheading">Your all-in-one solution for cabs, luxury cars, group travel, tempo
+                    travellers, and transport—delivered with care.</p>
+            </div>
+            <div class="row mt-5 align-items-center">
+                <div class="col-md-4 mb-5">
+                    <div class="services text-center">
+                        
+                        <div class="d-flex justify-content-center align-items-center">
+                            <i class="fa-solid fa-taxi wchu_icon m-0 py-3"></i>
+                        </div>
+                        <h3 class="acs-service-title">Cab Services</h3>
+                        <p class="acs-service-desc">Affordable, safe, and convenient cab services for local, intercity, and
+                            outstation travel—always at your fingertips.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-5">
+                    <div class="services text-center">
+                        
+                        <div class="d-flex justify-content-center align-items-center">
+                            <i class="fa-solid fa-car-side wchu_icon m-0 py-3"></i>
+                        </div>
+                        <h3 class="acs-service-title">Luxury Car Rentals</h3>
+                        <p class="acs-service-desc">Premium cars for weddings, corporate events, and special
+                            occasions—experience travel in style and comfort.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-5">
+                    <div class="services text-center">
+                        
+                        <div class="d-flex justify-content-center align-items-center">
+                            <i class="fa-solid fa-van-shuttle wchu_icon m-0 py-3"></i>
+                        </div>
+                        <h3 class="acs-service-title">Tempo Travellers</h3>
+                        <p class="acs-service-desc">Spacious and comfortable tempo travellers for group trips, family
+                            outings, and corporate tours.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-5">
+                    <div class="services text-center">
+                        
+                        <div class="d-flex justify-content-center align-items-center">
+                            <i class="fa-solid fa-truck wchu_icon m-0 py-3"></i>
+                        </div>
+                        <h3 class="acs-service-title">Transport Services</h3>
+                        <p class="acs-service-desc">Reliable transport solutions for goods and passengers, ensuring timely
+                            and secure delivery every time.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-5">
+                    <div class="services text-center">
+                        
+                        <div class="d-flex justify-content-center align-items-center">
+                            <i class="fa-solid fa-boxes-stacked wchu_icon m-0 py-3"></i>
+                        </div>
+                        <h3 class="acs-service-title">Logistics Solutions</h3>
+                        <p class="acs-service-desc">Comprehensive logistics support for businesses—covering supply chain,
+                            freight, and last-mile delivery</p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-5">
+                    <div class="services text-center">
+                        
+                        <div class="d-flex justify-content-center align-items-center">
+                            <i class="fa-solid fa-clock wchu_icon m-0 py-3"></i>
+                        </div>
+                        <h3 class="acs-service-title">Standby Car Rental Plans</h3>
+                        <p class="acs-service-desc">Customizable car hire with driver for 1 month, 6 months, or even 2
+                            years—dependable and cost-effective.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <style>
+        .luxuryCarRental_section_card {
+            border-radius: 0.4rem;
+            overflow: hidden;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .luxuryCarRental_section_card .card_image {
+            height: 110px;
+            margin-bottom: 1rem;
+            overflow: hidden;
+        }
+
+        .luxuryCarRental_section_card_heading {
+            font-family: 'MuliBold' !important;
+            color: var(--bs-highlight-color) !important;
+            font-size: clamp(0.85rem, 2vw, 1.1rem) !important;
+            font-weight: 700;
+        }
+
+        .luxuryCarRental_section_card_desc {
+            font-family: 'Muli' !important;
+            font-size: clamp(0.75rem, 2vw, 0.9rem) !important;
+            color: var(--bs-secondary-color) !important;
+            font-weight: 400;
+        }
+
+        .luxuryCarRental_section_card_link {
+            /* text-decoration: none !important; */
+            margin-top: 6px !important;
+            font-size: clamp(0.8rem, 2vw, 1.1rem) !important;
+            color: var(--bs-highlight-color) !important;
+            font-weight: 600;
+        }
+
+        .luxuryCarRental_section_card:hover {
+            box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.075);
+        }
+
+        .luxuryCarRental_section_card .card_image>img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+
+
+        @media all and (min-width: 768px) {
+            .luxuryCarRental_section_card {
+                width: 100%;
+                margin: 0;
+            }
+        }
+    </style>
+
+    
+    <section class="section mt-3">
+        <div class="container section-padding py-5">
+            <h2 class="text-center section-heading theme_text">One Platform for All Luxury Car Rentals</h2>
+            <p class="text-center mb-md-5 mb-3 section-subheading col-md-10 mx-auto stateNameStyle">We provide premium
+                luxury cars for every occasion and event, whether it’s a wedding, video shoot, corporate trips, airport
+                transfer or more. Rent a luxury car to make your travel stylish and comfortable.</p>
+            <div class="row row-gap-md-4 justify-content-center mx-3 mx-md-0">
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/wedding-car-hire" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/wedding-car-on-rent-web.webp" alt="wedding car hire">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Wedding Car Hire</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Make your wedding day grand with stylish cars that add luxury, comfort, and unforgettable memories.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/luxury-car-rental-for-corporates" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/luxury-car-rental-for-corporates-web.webp" alt="Car Rental for Corporates">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Luxury Corporate Cabs</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Our corporate cabs ensure a professional and smooth ride. Travel stress-free for meetings or events in corporate cars.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/luxury-airport-transfer-book" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/luxury-car-airport-transfer-web.webp" alt="luxury airport transfer">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Luxury Airport Transfer</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Get a timely and smooth airport pickup or drop with our luxury cars at clear and affordable prices.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/luxury-car-rentals-in-india" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/rent-luxury-cars-in-india-web.webp" alt="luxury car rentals in India">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Luxury Car Rentals In India</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Experience premium luxury cars available citywide, ensuring comfort, style, and unmatched travel convenience.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/luxury-car-rentals-for-special-occasions" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/luxury-cars-on-rent-for-events-web.webp" alt="Luxury Car Rentals for Special Occasions">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Luxury Car for Special Occasions</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Celebrate birthdays, anniversaries, or events in style. Our luxury cars make every occasion truly unforgettable.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/luxury-chauffeured-cars-rental" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/luxury-chauffeured-cars-web.webp" alt="luxury car hire with driver">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Chauffeur-Driven Luxury Cars</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Enjoy hassle-free travel with professional chauffeurs, making every ride smooth, stylish, and completely luxurious.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/luxury-car-rental-for-video-shoot" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/rent-car-for-video-shoot-web.webp" alt="luxury car rental for video shoot">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Luxury Car for Video Shoots</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Car rental for video shoot options to make your shoot stylish and memorable</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                                    <div class="col-xl-3 col-lg-4 col-sm-6 col-12 mb-4 mb-md-0">
+                        <a href="https://hurryupcabs.com/luxury-car-rentals/limo-car-rental" class="luxuryCarRental_section_card h-100 d-flex flex-column rounded-4 border text-decoration-none">
+                            <div class="card_image">
+                                <img width="280" height="120" src="https://hurryupcabs.com/images/Category_page_content/rent-a-limo-web.webp" alt="limo car rental">
+                            </div>
+                            <div class="d-flex flex-column flex-grow-1 justify-content-between pb-4 px-3">
+                                <div>
+                                    <h3 class="luxuryCarRental_section_card_heading mb-2">Limo Car Rental</h3>
+                                    <p class="luxuryCarRental_section_card_desc">Book a luxury limo for a few hours or a full day. Flexible rental options make your travel easy and comfortable.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </section>
+
+
+
+    
+    <section class="our-features-section bg-light section-padding" id="ourFeatures">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h2 class="section-heading theme_text">Choose your type, pick one!</h2>
+                <p class="section-subheading">We provide pocket-friendly cab rides, giving you a smile, every time you
+                    choose one!</p>
+            </div>
+            <section class="ourServices h-p-lg align-items-center">
+                <section class="ambulance-services section-3 align-items-center bg-light">
+                    <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+<style>
+    .section-pad {
+        padding: 40px 0;
+    }
+
+    .containerInclude {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 0px;
+    }
+
+    /* .more-products__list{
+        max-width: 150px;
+    } */
+
+    .section-title-include {
+        font-size: 28px;
+        font-weight: 600;
+        color: #000;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .more-products__link {
+        margin-top: 15px;
+        display: block;
+        text-decoration: none;
+        text-align: center;
+        /* padding: 15px; */
+        border: 1px solid #fff;
+        border-radius: 5px;
+        transition: all 0.2s ease;
+        height: 97%;
+        position: relative;
+        background-color: #fff;
+    }
+
+    .more-products__img-wrap {
+        margin-bottom: 10px;
+        margin-top: 18px;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .more-products__img {
+        max-height: 100%;
+        max-width: 100%;
+        transition: transform 0.2s ease;
+    }
+
+    .more-products__text {
+        font-size: 14px;
+        color: #222;
+        font-weight: 600 !important;
+        line-height: 1.2;
+        font-family: 'Mulish', sans-serif;
+    }
+
+    .more-products__text:hover {
+        color: orange;
+    }
+
+    .highlighted .more-products__link {
+        border-color: orange;
+        box-shadow: 0 .45rem .45rem 0 rgba(50, 50, 50, .2);
+        transform: translateY(-3px);
+    }
+
+    .highlighted .more-products__text {
+        color: orange;
+        font-weight: 800 !important;
+        transition: color 0.2s ease;
+    }
+
+    .rate-tag {
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 4px 12px;
+        font-size: clamp(7px, 1vw, 12px);
+        font-weight: 700;
+        border-radius: 12px;
+        color: #f5f5f5;
+        background-color: #28a745;
+        line-height: 1;
+        white-space: nowrap;
+    }
+
+    /* Responsive tweaks */
+    @media (max-width: 768px) {
+        .section-title-include {
+            font-size: 24px;
+        }
+
+        .more-products__text {
+            font-size: 14px;
+        }
+
+        .more-products__img-wrap {
+            height: 56px;
+        }
+    }
+
+    @media (max-width: 576px) {
+        .section-pad {
+            padding: 0px;
+        }
+
+        .section-title-include {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+
+        .more-products__text {
+            font-size: 13px;
+        }
+
+        .more-products__img-wrap {
+            height: 46px;
+        }
+
+        /* .more-products__link {
+            padding: 5px;
+        } */
+    }
+
+    @media (max-width: 400px) {
+        .more-products__text {
+            font-size: 10px;
+        }
+
+        .rate-tag {
+            padding: 3px 8px;
+            top: -5px;
+
+        }
+    }
+
+    .more-products-title__text-include {
+        letter-spacing: 0.5px;
+        background-color: #fff;
+        border-radius: 14px;
+        padding: 8px 12px;
+        color: #222;
+        font-size: 12px;
+        font-weight: 800;
+        line-height: 14px;
+        text-transform: uppercase;
+        display: inline-block;
+        font-family: 'Mulish', sans-serif;
+    }
+
+    @media (max-width: 768px) {
+        .more-products-title__text-include {
+            font-size: 11px;
+            padding: 6px 10px;
+        }
+
+    }
+
+    @media (max-width: 480px) {
+        .more-products-title__text-include {
+            font-size: 10px;
+        }
+    }
+</style>
+
+<section class="section-pad mt-5 mt-md-0">
+
+    <div class="containerInclude mb-5">
+        <div class="more-products-title">
+            <span class="more-products-title__text-include">Cab Service</span>
+        </div>
+        <div class="row m-0 p-0 g-3 justify-content-start">
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="hatchback-cab" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/vehicle_icons/hatchback.webp" alt="Cab Service">
+                        </div>
+                        <div class="more-products__text">Hatchback</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="suv-cab" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/vehicle_icons/suv.webp" alt="Cab Service">
+                        </div>
+                        <div class="more-products__text">SUV</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="suv-luxury-car-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/vehicle_icons/suv_luxury.webp" alt="Cab Service">
+                        </div>
+                        <div class="more-products__text">SUV Luxury</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="sedan-cab" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/vehicle_icons/sedan.webp" alt="Cab Service">
+                        </div>
+                        <div class="more-products__text">Sedan</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="#" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/vehicle_icons/indian-black-motorbike.webp" alt="Cab Service">
+                        </div>
+                        <div class="more-products__text">Bike</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="#" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/vehicle_icons/auto.webp" alt="Cab Service">
+                        </div>
+                        <div class="more-products__text">Auto/Toto</div>
+                    </a>
+                </div>
+                    </div>
+    </div>
+
+    <div class="containerInclude mb-5">
+        <div class="more-products-title">
+            <span class="more-products-title__text-include">Traveller Service</span>
+        </div>
+        <div class="row m-0 p-0 g-3 justify-content-start">
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="urbania-on-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Urbania Travellers_1747475016.png" alt="Traveller Service">
+                        </div>
+                        <div class="more-products__text">Urbania Travellers</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="volvo-bus-on-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/side-view-white-city-bus-transportation-vehicle-public-transport-travel-journey 1_1747475000.png" alt="Traveller Service">
+                        </div>
+                        <div class="more-products__text">Volvo Bus</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="van-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/assets/display_icon/van.png" alt="Traveller Service">
+                        </div>
+                        <div class="more-products__text">Van</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="tempo-traveller-for-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Force traveller_1758782573.webp" alt="Traveller Service">
+                        </div>
+                        <div class="more-products__text">Force Travellers</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="#" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Force traveller_1758782573.webp" alt="Traveller Service">
+                        </div>
+                        <div class="more-products__text">Toyota Commuter</div>
+                    </a>
+                </div>
+                    </div>
+    </div>
+
+    <div class="containerInclude mb-5">
+        <div class="more-products-title">
+            <span class="more-products-title__text-include">Luxury Service</span>
+        </div>
+        <div class="row m-0 p-0 g-3 justify-content-start">
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-an-audi" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Audi_1747474699.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Audi</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-a-mercedes-benz" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Mercedes-Benz_1747474716.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Mercedes-Benz</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-a-range-rover" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Range Rover_1747474722.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Range Rover</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="jaguar-car-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Jaguar car free images_1747474745.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Jaguar</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-a-bmw" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service BMW_1747474757.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">BMW</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="porsche-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/isolated-realistic-metallic-white-legendary-coupe-super-sport-car-from-left-front-view 1 (1)_1747474782.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Porsche</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-rolls-royce" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Rolls Royce_1747474798.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Rolls Royce</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="bentley-car-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Bentley_1747474807.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Bentley</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="chrysler-car-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Chrysler_1747474816.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Chrysler</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-a-hummer" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Hummer_1747475094.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Hummer</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="ford-car-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Luxury Service Ford_1747475087.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Ford</div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-toyota-car" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/black-car-with-word-toyota-side 1_1747468171.png" alt="Luxury Service">
+                        </div>
+                        <div class="more-products__text">Toyota</div>
+                    </a>
+                </div>
+                    </div>
+    </div>
+
+    
+    <div class="containerInclude">
+        <div class="more-products-title">
+            <span class="more-products-title__text-include">Transport Service</span>
+        </div>
+        <div class="row m-0 p-0 g-3 justify-content-start">
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="rent-a-mini-truck" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Small Pickup Trucks (2)_1747474976.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Mini Trucks / 4-Wheelers
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="3-wheeler-mini-truck-for-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/3-Wheelers_1747475158.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Mini Trucks / 3-Wheelers
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="light-pickup-trucks-for-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Light Pickup Trucks (1) - Copy_1747474964.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Light Pickup Trucks
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="light-commercial-vehicles-for-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Light Commercial Vehicles (1) - Copy_1747474948.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Light Commercial Vehicles
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="medium-size-light-commercial-vehicles-for-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Mid-size LCVs (1) - Copy_1747474932.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Mid-size LCVs
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="medium-duty-truck-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Medium Commercial Vehicles (MCVs) (1) - Copy_1747474923.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Medium Commercial Vehicles (MCVs)
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="heavy-duty-truck-rental" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Transport Service Heavy Commercial Vehicles (HCVs) (1) - Copy_1747475187.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Heavy Commercial Vehicles (HCVs)
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="transport-services" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Transport Service Transportation Truck (2)_1747474878.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Transportation Truck
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-4 col-sm-4 col-lg-2 mt-4 mt-md-3 more-products__list">
+                    <a href="trailer-for-rent" class="more-products__link pt-0 pt-md-2 pb-0 pb-md-0">
+
+                        <div class="more-products__img-wrap">
+                            <img class="more-products__img" loading="lazy" src="https://hurryupcabs.com/24/app_panel/images/master_type_image/Trailers & Specialized Heavy Trucks (1) - Copy_1747474893.png" alt="Transport Service">
+                        </div>
+                        <div class="more-products__text" style="padding: 0 10px">Trailers &amp; Specialized Heavy Trucks
+                        </div>
+                    </a>
+                </div>
+                    </div>
+    </div>
+
+
+</section>
+
+<script>
+    document.querySelectorAll('.more-products__link').forEach(card => {
+        card.addEventListener('mouseenter', function() {
+            document.querySelectorAll('.more-products__list').forEach(item => {
+                item.classList.remove('highlighted');
+            });
+            this.parentElement.classList.add('highlighted');
+        });
+    });
+</script>
+                </section>
+            </section>
+        </div>
+    </section>
+
+    
+
+    <!-- End Main Features -->
+    <!-- Start Why Us -->
+    <section class="why-choose-us-section section-padding" data-background="why-choose-us-bg" id="whyChooseUs">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h3 class="section-heading theme_text">Why Travel &amp; Transport with HurryUp</h3>
+                <p class="section-subheading">From everyday rides to premium cars and travellers, HurryUp offers complete
+                    mobility solutions with fair pricing and no hidden charges.</p>
+            </div>
+
+            <style>
+    .wchu_card {
+        background-color: #F8F9FA;
+        border-radius: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 16px;
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+    }
+
+    /* Hover effect to move card 10px up */
+    .wchu_card:hover {
+        transform: translateY(-6px);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .wchu_icon {
+        font-size: 26px;
+        color: #d8712a;
+    }
+
+    .wchu_heading {
+        font-size: 15.625px;
+        color: #000;
+        font-weight: 400;
+        font-family: myPoppins;
+    }
+
+    .wchu_desc {
+        font-size: 12.625px;
+        color: #75747C;
+    }
+</style>
+
+<div class="container d-flex justify-content-center">
+    <div class="row gap-3 justify-content-center py-2">
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                
+                <i class="fa-solid fa-indian-rupee-sign wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Transparent Pricing</h4>
+                    <p class="text-center wchu_desc m-0 py-1">No hidden charges—pay fair rates with proper invoicing for cabs, rentals, and logistics.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                
+                <i class="fa-solid fa-taxi wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Complete Service Range</h4>
+                    <p class="text-center wchu_desc m-0 py-1">From daily rides to luxury cars, tempo travellers, transport, and logistics—we cover every need.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                
+                <i class="fa-solid fa-plane wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Business &amp; Corporate Travel</h4>
+                    <p class="text-center wchu_desc m-0 py-1">Dedicated solutions for executives, long-term car rentals with drivers, and corporate logistics.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                <i class="fa fa-car-rear wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Diverse Fleet</h4>
+                    <p class="text-center wchu_desc m-0 py-1">Choose from Hatchbacks, Sedans, Compact Cars, SUVs, Tempo
+                        Travellers, and Transport</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                <i class="fa fa-user-large wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Professional Drivers &amp; Chauffeurs</h4>
+                    <p class="text-center wchu_desc m-0 py-1">Verified, trained, and courteous drivers ensuring safety and comfort across all services.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                
+                <i class="fa-solid fa-star wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Luxury &amp; Premium Cars</h4>
+                    <p class="text-center wchu_desc m-0 py-1"> High-end cars for weddings, events, and VIP travel—delivering style and sophistication.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                
+                <i class="fa-solid fa-truck-fast wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Tempo Travellers &amp; Transport</h4>
+                    <p class="text-center wchu_desc m-0 py-1">Trusted tempo traveller and goods/passenger transport services with timely, safe, and efficient delivery.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                
+                <i class="fa-solid fa-plane-departure wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Airport Transfers &amp; Outstation</h4>
+                    <p class="text-center wchu_desc m-0 py-1">24×7 airport pickups, drops, and intercity travel with punctual service.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                <i class="fa fa-clock wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Long-Term Rentals</h4>
+                    <p class="text-center wchu_desc m-0 py-1"> Flexible monthly and yearly car hire with driver—ideal for individuals, families, and businesses.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 py-2 px-2 px-md-2 pb-3 col-10 wchu_card">
+            <div class="d-flex justify-content-center align-items-center">
+                <i class="fa fa-paw wchu_icon m-0 py-3"></i>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                <div>
+                    <h4 class="text-center wchu_heading m-0 py-1">Pet &amp; Family Friendly Travel</h4>
+                    <p class="text-center wchu_desc m-0 py-1"> Ride stress-free with family and pets—comfort and convenience for every journey.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+    </section>
+    <!-- End Why Us -->
+
+
+    <!-- Why Drivers Choose HurryUp Cabs -->
+    <!-- Remove this later -->
+    <style>
+        @media (max-width: 960px) {
+            .whyWork_block {
+                width: 80%;
+            }
+        }
+    </style>
+
+    <!-- Remove this later -->
+    <section class="section-padding bg-light d-flex flex-column align-items-center justify-content-between" id="whyWork">
+        <div class="heading-wrapper text-center">
+            <h2 class="section-heading theme_text">A Platform for All Travel &amp; Transport Partners</h2>
+            <p class="section-subheading pb-4">One trusted platform where cab drivers, traveller operators, luxury car
+                owners, and transport operators thrive together.
+            </p>
+
+        </div>
+        <div class="row container">
+            <div class="col col-md-6 col-lg-3 img_block">
+                <div class="image-wrapper">
+                    <div class="wpb-100"></div>
+                    <img src="assets/img/transPartner/cab_driver.webp" alt="The Low Service charge" class="img_pos" loading="lazy" title="The Low Service charge">
+                </div>
+                <h3 class="acs-service-title text-center mt-4">
+                    Cab Drivers</h3>
+                <p class="acs-service-desc" style="font-size: 15px !important;"> Earn more with zero commission cuts,
+                    daily &amp; outstation trips, and round-the-clock booking opportunities.</p>
+            </div>
+
+            <div class="col col-md-6 col-lg-3 img_block">
+                <div class="image-wrapper">
+                    <div class="wpb-100"></div>
+                    <img src="assets/img/transPartner/luxury_car_owners.webp" alt="Easy registration" class="img_pos" loading="lazy" title="Easy registration">
+                </div>
+                <h3 class="acs-service-title text-center mt-4">Luxury Car Owners</h3>
+                <p class="acs-service-desc" style="font-size: 15px !important;">Get premium bookings for weddings,
+                    corporate events, and VIP travel—maximizing returns with chauffeur-driven rentals.</p>
+            </div>
+
+            <div class="col col-md-6 col-lg-3 img_block">
+                <div class="image-wrapper">
+                    <div class="wpb-100"></div>
+                    <img src="assets/img/transPartner/transport_operators.webp" alt="Instant Redeem" class="img_pos" loading="lazy" title="Instant Redeem">
+                </div>
+                <h3 class="acs-service-title text-center mt-4">Transport Operators</h3>
+                <p class="acs-service-desc" style="font-size: 15px !important;">Access reliable demand for passenger
+                    travel and goods movement, backed by secure and timely payouts.
+                </p>
+            </div>
+
+            <div class="col col-md-6 col-lg-3 img_block">
+                <div class="image-wrapper">
+                    <div class="wpb-100"></div>
+                    <img src="assets/img/transPartner/tempo_traveller_operators.webp" alt="SOS and 24*7 call and email support" class="img_pos" title="SOS and 24*7 call and email support" loading="lazy">
+                </div>
+                <h3 class="acs-service-title text-center mt-4">Tempo Traveller Operators</h3>
+                <p class="acs-service-desc" style="font-size: 15px !important;">Get bookings for family trips, tours, and
+                    group travel—maximizing returns with dependable demand.
+                </p>
+            </div>
+        </div>
+        <a href="https://play.google.com/store/apps/details?id=com.hurryup.partner" class="text-decoration-none text-center rounded-5 px-md-5 become_a_driver_btn px-3 py-2 py-md-3 mt-5">
+            Become a Partner
+        </a>
+    </section>
+    <!-- End Why Drivers Choose HurryUp Cabs -->
+
+    <!-- Explore india -->
+        <section class="section-padding">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h2 class="section-heading theme_text mb-3">Explore India</h2>
+                <p class="section-subheading mb-md-5">We provide insights and tips for unforgettable journeys. Click to
+                    explore destinations, attractions, and travel stories across India.</p>
+            </div>
+            <style>
+    .explore_india {
+        padding: 1.5em 1em;
+        max-height: 400px;
+        overflow-y: scroll;
+    }
+
+    .explore_india .route_primary {
+        font-weight: 500;
+    }
+
+    .explore_india::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    .explore_india::-webkit-scrollbar-track {
+        background: #F5F5F5;
+    }
+
+    .explore_india::-webkit-scrollbar-thumb {
+        background-color: #DDDCDC;
+        border-radius: 100px;
+    }
+</style>
+
+<div class="primary-text d-flex row row-gap-2 justify-content-center explore_india">
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/spiritual-places-india" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    Spiritual Places in India
+                </p>
+            </div>
+                            </a>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Scuba Diving Places in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Best Seasons to Travel in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    What is Famous in India?
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Airport Lounges in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Weekend Getaways in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/airports" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    Airports in India
+                </p>
+            </div>
+                            </a>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/hill-stations-in-india" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    Hill Stations in India
+                </p>
+            </div>
+                            </a>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Cycling in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Beaches in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    UNESCO Heritage Sites
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/one-day-trips-in-india" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    One Day Trips in India
+                </p>
+            </div>
+                            </a>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Wedding Destinations
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Trekking Places in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Wildlife Safaris in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    India Travel Guides
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Best Places to Live in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/tourist-attractions-in-india" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    Tourist Attractions in India
+                </p>
+            </div>
+                            </a>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Flight Travel &amp; Guides
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Amusement Parks in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Popular Waterfalls in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/road-trips-in-india" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    Road Trips in India
+                </p>
+            </div>
+                            </a>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    List of Cities in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 text-black">
+                    Bike Trips in India
+                </p>
+            </div>
+                    </div>
+                    <div class="col-xl-3 col-md-4 col-sm-6 col-12 px-2 mb-2">
+                            <a href="https://hurryupcabs.com/explore/hurryup-cab-service" class="text-decoration-none">
+                        <div class="bg-light routeCardSM p-3 rounded h-100 d-flex align-items-center justify-content-center">
+                <p class="route_primary m-0 blue_clr">
+                    HurryUp Cab Service
+                </p>
+            </div>
+                            </a>
+                    </div>
+    </div>
+        </div>
+    </section>
+    <!-- Explore india -->
+
+
+    <div id="topCities"></div>
+    <section class="routeSection section-padding">
+
+        <div class="d-flex flex-column">
+            <h2 class="text-center fw-bold section-heading theme_text">Top Cities We Serve</h2>
+            <p class="section-subheading text-center">We provide the best cab services across India at affordable rates.
+                Online cab booking at your price within
+                seconds via HurryUp&#160;mobile&#160;app.</p>
+
+            
+            <style>
+                .cityContainer {
+                    width: 100%;
+                }
+            </style>
+            
+
+            <div class="splide splideTopCities">
+                <div class="splide__track py-3 mx-5">
+                    <div class="splide__list align-items-center">
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-ayodhya" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/book-taxi-in-ayodhya-web.webp" alt="Taxi Services in Ayodhya" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Ayodhya" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Ayodhya</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Ayodhya.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-noida" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/book-taxi-in-noida-web.webp" alt="Taxi Services in Noida" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Noida" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Noida</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Noida.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-varanasi" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/book-cab-in-varanasi-web.webp" alt="Taxi Services in Varanasi" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Varanasi" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Varanasi</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab, taxi and rental services in Varanasi.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-gorakhpur" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/gorakhpur-cab-services-web.webp" alt="Taxi Services in Gorakhpur" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Gorakhpur" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Gorakhpur</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Gorakhpur.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-vrindavan" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/1726125031.webp" alt="Taxi Services in Vrindavan" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Vrindavan" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Vrindavan</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Vrindavan.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-allahabad-prayagraj" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/book-cab-at-sangam-web.webp" alt="Prayagraj Cab Services" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Prayagraj Cab Services" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Allahabad, Prayagraj</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab, taxi and rental services in Prayagraj.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-sitapur" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/sitapur-cab-service-web.webp" alt="Taxi Services in Sitapur" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Sitapur" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Sitapur</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Sitapur.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-ghaziabad" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/book-cab-in-ghaziabad-web.webp" alt="Taxi Services in Ghaziabad" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Ghaziabad" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Ghaziabad</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Ghaziabad.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-bareilly" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/bareilly-cab-services-web.webp" alt="Taxi Services in Bareilly" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Bareilly" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Bareilly</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Bareilly.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="splide__slide">
+                                <div class="mb-3 m-0 p-0">
+                                    <a href="https://hurryupcabs.com/city/cab-service-in-aligarh" class="text-decoration-none">
+                                        <div class="p-3 border rounded-4 shadow bg-white cityContainer h-100">
+                                            <div class="mb-2 text-center rounded overflow-hidden">
+                                                <img src="https://hurryupcabs.com/images/city_images/cab-in-aligarh-web.webp" alt="Taxi Services in Aligarh" style="width: 100%; height: 100px; object-fit: cover; object-position: center;" title="Taxi Services in Aligarh" loading="lazy">
+                                            </div>
+                                            <div class="fw-bold text-center">
+                                                <p class="route_primary m-0">Cab Service in Aligarh</p>
+                                                <!-- <div class="text-secondary text-center route_desc">
+                                                                                        <p>HurryUp Cabs is known for providing 24*7 cab service in Aligarh.</p>
+                                                                                    </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            
+            <a href="https://hurryupcabs.com/taxi-service-in-indias-top-cities" class="btn btn-dark mt-md-5 mt-3 shadow-none mx-auto viewMoreBtn px-4 py-3" style="font-family: var(--acs-nir-m); display:inline-block; min-width:120px; text-align:center;">
+                More Results
+            </a>
+
+        </div>
+    </section>
+    <!-- End City Top Routes -->
+
+
+    <style>
+        @media all and (max-width: 640px) {
+
+            .splideAppPreview img {
+                width: 150px;
+                height: 100%;
+                object-fit: contain;
+            }
+
+
+            .ourSolution .qrContainer img {
+                width: 100px;
+                height: 100px;
+            }
+
+            .section-text {
+                font-size: 0.7rem;
+
+            }
+        }
+    </style>
+    <!-- Start Fun Facts -->
+    <section class="fun-facts-section ourSolution section-padding">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h2 class="section-heading theme_text">Want to know more about Our Solutions?</h2>
+                <p class="section-subheading">Scan the QR code to download our apps and unlock seamless solutions for
+                    both consumers&#160;and&#160;partners!</p>
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="position-relative d-none d-lg-block py-4" style="width: max-content">
+                    <img src="assets/consumer_app_preview.webp" alt="hurryup consumer app" width="250" loading="lazy" title="HurryUp Consumer App">
+
+                    <div class="px-md-4 px-3 py-md-2 py-md-1 rounded-5 border bg-light d-flex align-items-center position-absolute start-0 top-0 transform-middle">
+                        <div class="d-flex align-items-center justify-content-center me-2" style=" height: 16px; width: 14px; margin: 0">
+                            <i class="fa-solid fa-user"></i>
+                        </div>
+                        <div>
+                            <p class="m-0 section-text">Download Consumer App</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="position-relative d-none d-lg-block" style="width: max-content">
+                    <img src="assets/partner_app_preview.webp" alt="hurryup consumer app" width="250" loading="lazy" title="HurryUp Partner App">
+                    <div class="px-md-4 px-3 py-md-2 py-md-1 rounded-5 border bg-light d-flex align-items-center position-absolute end-0 top-50">
+                        <div class="d-flex align-items-center justify-content-center me-2" style=" height: 16px; width: 14px; margin: 0">
+                            <i class="fa-solid fa-user"></i>
+                        </div>
+                        <div>
+                            <p class="m-0 section-text">Download Partner App</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="position-relative d-none d-lg-block" style="width: max-content">
+                    <img src="assets/partner_app_preview.webp" alt="hurryup consumer app" width="250" loading="lazy" title="HurryUp Driver App">
+                    <div class="px-md-4 px-3 py-md-2 py-md-1 rounded-5 border bg-light d-flex align-items-center position-absolute end-0 bottom-0">
+                        <div class="d-flex align-items-center justify-content-center me-2" style=" height: 16px; width: 14px; margin: 0">
+                            <i class="fa-solid fa-user"></i>
+                        </div>
+                        <div>
+                            <p class="m-0 section-text">Download Driver App</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="splide splideAppPreview mb-sm-0 d-lg-none pb-5">
+                    <div class="splide__track">
+                        <div class="splide__list">
+                            <div class="splide__slide">
+                                <div class="position-relative">
+                                    <img src="assets/consumer_app_preview.webp" alt="hurryup consumer app" width="250" height="518" loading="lazy" title="HurryUp Consumer App">
+
+                                    <div class="px-md-4 px-3 py-md-2 py-md-1 rounded-5 border bg-light d-flex align-items-center position-absolute start-0 top-50 transform-middle">
+                                        <div class="d-flex align-items-center justify-content-center me-2" style=" height: 16px; width: 14px; margin: 0">
+                                            <i class="fa-solid fa-user"></i>
+                                        </div>
+                                        <div>
+                                            <p class="m-0 section-text">Download Consumer App</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="splide__slide">
+                                <div class="position-relative">
+                                    <img src="assets/consumer_app_preview.webp" alt="hurryup consumer app" width="250" height="518" loading="lazy" title="HurryUp Partner App">
+
+                                    <div class="px-md-4 px-3 py-md-2 py-md-1 rounded-5 border bg-light d-flex align-items-center position-absolute start-0 top-50 transform-middle">
+                                        <div class="d-flex align-items-center justify-content-center me-2" style=" height: 16px; width: 14px; margin: 0">
+                                            <i class="fa-solid fa-user"></i>
+                                        </div>
+                                        <div>
+                                            <p class="m-0 section-text">Download Driver App</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="splide__slide">
+                                <div class="position-relative">
+                                    <img src="assets/partner_app_preview.webp" alt="hurryup consumer app" width="250" height="518" loading="lazy" title="HurryUp Driver App">
+                                    <div class="px-md-4 px-3 py-md-2 py-md-1 rounded-5 border bg-light d-flex align-items-center position-absolute end-0 top-0">
+                                        <div class="d-flex align-items-center justify-content-center me-2" style=" height: 16px; width: 14px; margin: 0">
+                                            <i class="fa-solid fa-user"></i>
+                                        </div>
+                                        <div>
+                                            <p class="m-0 section-text">Download Partner App</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col qrContainer py-sm-4 py-md-4 py-lg-0">
+                    <div class="d-flex flex-column justify-content-center ps-md-4 px-2 gap-md-4 gap-3">
+                        <div class="bg-white shadow rounded flex-grow-1">
+                            <a class="p-2 d-flex align-items-center gap-3 text-decoration-none" href="https://play.google.com/store/apps/details?id=com.hurryup.customer&pcampaignid=web_share">
+
+                                <div>
+                                    <img src="https://hurryupcabs.com/assets/partner_qr.jpg" width="100" height="100" alt="QR code to download partner app" loading="lazy" title="QR code to download partner app">
+                                </div>
+                                <div class="text-start">
+                                    <div>
+                                        <span class="text-decoration-none text-dark fw-bold" style="font-size: 18px;">Download Consumer App
+                                        </span>
+                                        <span style="float: right; color: #212529; margin-right:8px;"><i class="fa fa-arrow-right"></i></span>
+                                    </div>
+                                    <p class="p-0 m-0 text-gray" style="width: 100% ; color:#77725A; font-size:12px;">
+                                        Instantly book cabs for rentals, one-way trips, and corporate rides. Check
+                                        return bookings on popular
+                                        routes and save on fares when drivers offer return rides.</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="bg-white shadow rounded flex-grow-1">
+                            <a class="p-2 d-flex align-items-center gap-3 text-decoration-none" href="https://play.google.com/store/apps/details?id=com.hurryup.partner&pcampaignid=web_share">
+                                <div>
+                                    <img src="https://hurryupcabs.com/assets/consumer_qr.jpg" width="100" height="100" alt="QR code to download consumer app" loading="lazy" title="QR code to download consumer app">
+                                </div>
+                                <div class="text-start">
+                                    <div>
+                                        <span class="text-decoration-none text-dark fw-bold" style="font-size: 18px;">Download Partner App
+                                        </span>
+                                        <span style="float: right; color: #212529; margin-right:8px;"><i class="fa fa-arrow-right"></i></span>
+                                    </div>
+                                    <p class="p-0 m-0 text-gray" style="width: 100% ; color: #77725A; font-size:12px;">Hey
+                                        drivers and partners,
+                                        scan to access our B2B app, receive bookings, offer return rides, and earn with
+                                        zero commission.</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="bg-white shadow rounded flex-grow-1">
+                            <a class="p-2 d-flex align-items-center gap-3 text-decoration-none" href="https://play.google.com/store/apps/details?id=com.hurryup.drivers">
+                                <div>
+                                    <img src="https://hurryupcabs.com/assets/partner_qr.jpg" width="100" height="100" alt="QR code to download partner app" loading="lazy" title="QR code to download partner app">
+                                </div>
+                                <div class="text-start">
+                                    <div>
+                                        <span class="text-decoration-none text-dark fw-bold" style="font-size: 18px;">Download Driver App
+                                        </span>
+                                        <span style="float: right; color: #212529; margin-right:8px;"><i class="fa fa-arrow-right"></i></span>
+                                    </div>
+                                    <p class="p-0 m-0 text-gray" style="width: 100% ; color:#77725A; font-size:12px;">
+                                        Instantly book cabs for
+                                        rentals, one-way trips, and corporate rides. Check return bookings on popular
+                                        routes and save on fares when drivers offer return rides.</p>
+                                </div>
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Fun Facts  -->
+
+
+
+    <!-- Start FAQ -->
+    <section id="faq" class="faq-section bg-light faq section-padding">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h2 class="section-heading theme_text">Frequently Asked Questions</h2>
+                <p class="section-subheading">Find out more about our cab booking service.</p>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-4 col-12" data-aos="fade-left">
+                    <div class="d-flex justify-content-center">
+                        <img src="assets/img/screenshots/5.webp" class="img-fluid b-block mx-auto" alt="HurryUp Cabs app screenshot" width="320" height="220" style="object-fit: contain;" loading="lazy" title="HurryUp Cabs app screenshot">
+                    </div>
+                </div>
+                <div class="col-md-8 col-12">
+                    <div class="accordion" id="faqAccordion">
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_0">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse_0" aria-expanded="true" aria-controls="collapse_0">
+                                            How to book a Truck online with HurryUp Cabs?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_0" class="collapse show" aria-labelledby="heading_0" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        You can easily book a Truck online with the HurryUp Cabs mobile app or website. Choose your pickup and drop location, select the truck of your choice, offer your fare and confirm your ride. You can also contact us directly at our +91 708 112 3339 for simple bookings.
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_1">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_1" aria-expanded="false" aria-controls="collapse_1">
+                                            How much will it cost to hire a luxury car for a wedding/business?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_1" class="collapse" aria-labelledby="heading_1" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        The cost of hiring a luxury car depends on the car model, city, hours, and distance. We provide luxury rentals at fair and transparent rates, and you can choose from different packages for weddings, parties, or business travel according to your budget. Also, you can offer your price to hire a luxury car for wedding or business.
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_2">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_2" aria-expanded="false" aria-controls="collapse_2">
+                                            Where can I get a luxury car rental service in India?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_2" class="collapse" aria-labelledby="heading_2" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        You can get a reliable luxury car rental service with HurryUp Cabs across all major cities in India. You can rent a luxury car from top brands like Mercedes, BMW, Audi, Rolls Royce, Range Rover, Jaguar and more. All our cars come with professional chauffeurs to give you a safe and comfortable ride.
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_3">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_3" aria-expanded="false" aria-controls="collapse_3">
+                                            Can you rent Luxury cars in India?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_3" class="collapse" aria-labelledby="heading_3" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        Yes, you can rent luxury cars anywhere in India with luxury car rental services. We provide premium and luxury cars for weddings, business events, VIP travel, and special occasions.
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_4">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_4" aria-expanded="false" aria-controls="collapse_4">
+                                            How Can I Book a cab or taxi online with HurryUp Cabs?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_4" class="collapse" aria-labelledby="heading_4" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        You can easily book a cab or taxi online with the HurryUp Cabs mobile app or website. Choose your pickup and drop location, select the car of your choice, offer your fare and confirm your ride. You can also contact us directly at our taxi number +91 708 112 3339 for simple bookings.
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_5">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_5" aria-expanded="false" aria-controls="collapse_5">
+                                            What type of Services Does HurryUp provide?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_5" class="collapse" aria-labelledby="heading_5" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        HurryUp Cabs provides all kinds of travel and transport solutions in one place. We offer trusted cab and taxi services, luxury car rentals, tempo travellers for groups, transport services, and complete logistics solutions. We also provide standby car rental plans so you never have to worry about last-minute travel needs.
+                                    </div>
+                                </div>
+                            </div>
+                                                    <div class="card acs-accordion shadow">
+                                <div class="card-header" id="heading_6">
+                                    <h3 class="mb-0">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse_6" aria-expanded="false" aria-controls="collapse_6">
+                                            Why Choose HurryUp For Transport Service?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapse_6" class="collapse" aria-labelledby="heading_6" data-parent="#faqAccordion">
+                                    <div class="card-body">
+                                        You should choose HurryUp for Transport Service because we focus on trust, safety, and timely service. Our team provides well-maintained vehicles, experienced drivers, and smooth bookings at affordable prices. We make sure your travel or goods transport is always hassle-free.
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End FAQ  -->
+
+            <style>
+    @font-face {
+        font-family: poppins;
+        src: url(assets/fonts/poppins-regular-webfont.woff);
+        font-display: swap;
+    }
+
+    .blogheroSection {
+        color: black;
+        font-weight: 800;
+    }
+
+    .pageHeading {
+        padding: 50px 0;
+        text-align: center;
+        font-size: 36px;
+        font-family: niramitbold;
+    }
+
+    .reaBtn {
+        display: flex;
+        justify-content: center;
+        margin-top: 8px;
+
+    }
+
+    .readMoreBtn {
+        color: black;
+        padding: 2px;
+        font-weight: 900;
+        background-color: #ffffff;
+    }
+
+    .dateStyle {
+        color: rgb(98, 89, 89);
+        font-size: 12px;
+    }
+
+    .viewAllBtn {
+        border: 2px solid #252523;
+        padding: 16px;
+    }
+
+    .reaBtn a {
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        font-weight: 700;
+        font-family: roboto;
+    }
+
+    .blogImg {
+        aspect-ratio: 16/9;
+    }
+
+    .card-body {
+        font-family: var(--acs-nir-m);
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+    }
+
+    .card-text {
+        font-size: 1rem;
+    }
+
+    .card-text * {
+        margin-bottom: 0;
+        color: var(--acs-yellow-40) !important;
+    }
+
+    .card-text-sm {
+        font-size: .8rem;
+    }
+
+    .card-text-md {
+        font-size: 12px;
+    }
+</style>
+<div class="body container p-0">
+    <div class="blogheroSection">
+        <div class="pageHeading">
+            <h2 class="theme_text">Our Latest Blogs</h2>
+        </div>
+    </div>
+
+    <div class="container-fluid px-2">
+        <div class="row pb-4 m-0 splide splideBlogs">
+            <div class="splide__track">
+                <div class="splide__list">
+                                            <div class="body splide__slide">
+                                                            <a class="text-decoration-none" href="https://hurryupcabs.com/explore/tourist-attractions-in-india/spiti-valley-in-winter">
+                                                        
+                                <div class="card border-0">
+                                    <img src="images/blog_images/spiti-valley-in-winter.webp" width="auto" height="220px" loading="lazy" class="blogImg rounded" alt="spiti valley tour" style="object-fit: cover" title="spiti valley tour">
+                                    <div class="card-body p-1">
+                                        <h3 class="card-title text-center my-2 fw-bold">
+                                            Spiti Valley in Winter: Your Ultimate Guide to a Snow-Covered Adventure</h3>
+                                        <div class="card-text text-center acs_yellow_40">
+                                            <p><meta charset="utf-8"></p><p>When winter wraps the Himalayas in snow,&#160;<strong>Spiti Valley in Winter </strong>transforms into an untouched white...</p></div>
+                                        <p class="card-text-sm text-center acs_yellow_40 my-2">
+                                            13-November-2025
+                                        </p>
+                                        <div class="reaBtn">
+                                            <p class="border-bottom border-3 pb-2 readMoreBtn" style="font-family: roboto; width: fit-content; cursor: pointer; font-size:14px;">READ MORE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                            <div class="body splide__slide">
+                                                            <a class="text-decoration-none" href="https://hurryupcabs.com/explore/road-trips-in-india/atal-tunnel-manali">
+                                                        
+                                <div class="card border-0">
+                                    <img src="images/blog_images/atal-tunnel_web.webp" width="auto" height="220px" loading="lazy" class="blogImg rounded" alt="atal tunnel manali" style="object-fit: cover" title="atal tunnel manali">
+                                    <div class="card-body p-1">
+                                        <h3 class="card-title text-center my-2 fw-bold">
+                                            Explore the Atal Tunnel – India’s Iconic Gateway Through the Himalayas</h3>
+                                        <div class="card-text text-center acs_yellow_40">
+                                            <p>Hidden amid the mighty Himalayas, the Atal Tunnel stands as one of India’s proudest engineering marvels....</p></div>
+                                        <p class="card-text-sm text-center acs_yellow_40 my-2">
+                                            11-November-2025
+                                        </p>
+                                        <div class="reaBtn">
+                                            <p class="border-bottom border-3 pb-2 readMoreBtn" style="font-family: roboto; width: fit-content; cursor: pointer; font-size:14px;">READ MORE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                            <div class="body splide__slide">
+                                                        <a class="text-decoration-none" href="https://hurryupcabs.com/blogdetails/online-truck-booking-in-india">
+                                                        
+                                <div class="card border-0">
+                                    <img src="images/blog_images/online-truck-booking.webp" width="auto" height="220px" loading="lazy" class="blogImg rounded" alt="online lorry booking" style="object-fit: cover" title="online lorry booking">
+                                    <div class="card-body p-1">
+                                        <h3 class="card-title text-center my-2 fw-bold">
+                                            Online Truck Booking – The Smart Way to Move Freight in India</h3>
+                                        <div class="card-text text-center acs_yellow_40">
+                                            <p>In today’s fast-moving logistics world, <strong>online truck booking</strong> has completely changed how businesses and individuals transport...</p></div>
+                                        <p class="card-text-sm text-center acs_yellow_40 my-2">
+                                            04-November-2025
+                                        </p>
+                                        <div class="reaBtn">
+                                            <p class="border-bottom border-3 pb-2 readMoreBtn" style="font-family: roboto; width: fit-content; cursor: pointer; font-size:14px;">READ MORE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="row pb-5 w-100">
+            <div class="col-md-12">
+                <div class="reaBtn">
+                    <a href="https://hurryupcabs.com/blogs" class="viewAllBtn">VIEW ALL POSTS</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    
+
+    <section id="review" class="section-padding" style="background-color: #F8F9FA;">
+        <div class="container">
+            <div class="heading-wrapper text-center">
+                <h2 class="section-heading theme_text">Satisfied Customers, Partners and Drivers</h2>
+                <p class="section-subheading mb-5">Meet our customers who trust us for safe and reliable journeys,
+                    partners who
+                    grow with us, and drivers who choose us for rewarding work.</p>
+            </div>
+            <div>
+                <link rel="stylesheet" href="https://hurryupcabs.com/assets/css/includes/consumer_review.css">
+
+<div class="container mt-md-5">
+            <div class="testimonial-slide slideBackGround px-3 py-5">
+            <div class="row">
+                <div class="col-md-3 d-flex justify-content-center position-relative">
+                    <img src="https://hurryupcabs.com/images/consumer_review_image/Durga Bahadur.webp" alt="Durga Bahadur" title="Durga Bahadur" loading="lazy" width="120" height="120" class="imgResponsive">
+                    
+                    <div class="quote-icon">
+                        <i class="fa-solid fa-quote-left" style="font-size: 60px;"></i>
+                        <div class="border vertical-line" style="height: 50px; width: 1px; margin-left: 26px;"></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-lg-8 bodyContainer">
+                    <p class="reviewContent">Very good service! Driver was very friendly and helpful. We enjoyed his company. Booking a ride is easy with their app and I can offer my price. The drivers have always been punctual, and cars are clean. They do not take any extra money or advance payment and collect the fare after dropping me to my place. Highly recommend their services.          </p>
+                    <p class="personName mt-2">Durga Bahadur</p>
+                    <p class="state">
+                                                Consumer - Uttar Pradesh
+                    </p>
+                </div>
+            </div>
+        </div>
+            <div class="testimonial-slide slideBackGround px-3 py-5">
+            <div class="row">
+                <div class="col-md-3 d-flex justify-content-center position-relative">
+                    <img src="https://hurryupcabs.com/images/consumer_review_image/Aryan Singh.webp" alt="Aryan Singh" title="Aryan Singh" loading="lazy" width="120" height="120" class="imgResponsive">
+                    
+                    <div class="quote-icon">
+                        <i class="fa-solid fa-quote-left" style="font-size: 60px;"></i>
+                        <div class="border vertical-line" style="height: 50px; width: 1px; margin-left: 26px;"></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-lg-8 bodyContainer">
+                    <p class="reviewContent">Great experience with HurryUp Cabs! I booked a cab in Lucknow at my price. The drivers are friendly and always arrive on time. The cabs are well maintained and AC works nicely. Highly recommend to anyone needing cab service in Lucknow. They accept UPI payments that’s very good as I don’t have cash sometime. Will use their services again!        </p>
+                    <p class="personName mt-2">Aryan Singh</p>
+                    <p class="state">
+                                                Consumer - Uttar Pradesh
+                    </p>
+                </div>
+            </div>
+        </div>
+            <div class="testimonial-slide slideBackGround px-3 py-5">
+            <div class="row">
+                <div class="col-md-3 d-flex justify-content-center position-relative">
+                    <img src="https://hurryupcabs.com/images/consumer_review_image/Jyoti.webp" alt="Jyoti" title="Jyoti" loading="lazy" width="120" height="120" class="imgResponsive">
+                    
+                    <div class="quote-icon">
+                        <i class="fa-solid fa-quote-left" style="font-size: 60px;"></i>
+                        <div class="border vertical-line" style="height: 50px; width: 1px; margin-left: 26px;"></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-lg-8 bodyContainer">
+                    <p class="reviewContent">Recently I booked a cab for my CTET exam. The driver dropped me on time and price also affordable. Best cab service in Lucknow for girls. As a girl traveling alone, I always prioritize safety, and I felt completely secure throughout the journey. HurryUp Cabs is the best cab service in Lucknow, especially for girls. I will definitely be using their cab service again for my exams and everyday travel.           </p>
+                    <p class="personName mt-2">Jyoti</p>
+                    <p class="state">
+                                                Consumer - Uttar Pradesh
+                    </p>
+                </div>
+            </div>
+        </div>
+            <div class="testimonial-slide slideBackGround px-3 py-5">
+            <div class="row">
+                <div class="col-md-3 d-flex justify-content-center position-relative">
+                    <img src="https://hurryupcabs.com/images/consumer_review_image/Beena.webp" alt="Beena" title="Beena" loading="lazy" width="120" height="120" class="imgResponsive">
+                    
+                    <div class="quote-icon">
+                        <i class="fa-solid fa-quote-left" style="font-size: 60px;"></i>
+                        <div class="border vertical-line" style="height: 50px; width: 1px; margin-left: 26px;"></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-lg-8 bodyContainer">
+                    <p class="reviewContent">Very good experience. We used the cab for regular usage in Lucknow and everytime they provide good service. The fare was really affordable and I can offer my price for booking cabs. The driver is professional and friendly, providing a smooth and comfortable journey. Highly recommend for cab service.    </p>
+                    <p class="personName mt-2">Beena</p>
+                    <p class="state">
+                                                Consumer - Uttar Pradesh
+                    </p>
+                </div>
+            </div>
+        </div>
+            <div class="testimonial-slide slideBackGround px-3 py-5">
+            <div class="row">
+                <div class="col-md-3 d-flex justify-content-center position-relative">
+                    <img src="https://hurryupcabs.com/images/consumer_review_image/Meena.webp" alt="Meena" title="Meena" loading="lazy" width="120" height="120" class="imgResponsive">
+                    
+                    <div class="quote-icon">
+                        <i class="fa-solid fa-quote-left" style="font-size: 60px;"></i>
+                        <div class="border vertical-line" style="height: 50px; width: 1px; margin-left: 26px;"></div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-lg-8 bodyContainer">
+                    <p class="reviewContent">Good cab service in Varanasi, I booked a cab for my family for an entire day for local visits in Varanasi. The driver was polite and on time, ensuring that we reached each of our destinations comfortably and without any delays. The car was clean and AC was on entire journey. Overall, it was an excellent experience!</p>
+                    <p class="personName mt-2">Meena</p>
+                    <p class="state">
+                                                Consumer - Uttar Pradesh
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center align-items-center mt-5">
+        <button class="slider-arrow slider-prev px-2" aria-label="Previous"><i class="fa fa-arrow-left-long"></i></button>
+        <button class="slider-arrow slider-next px-2" aria-label="Next"><i class="fa fa-arrow-right-long"></i></button>
+    </div>
+</div>
+
+<script src="https://hurryupcabs.com/assets/js/pages/consumer_review.js?v=1763728736"></script>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            localStorage.setItem('firstLoad', 'false');
+
+        });
+    </script>
+    <button id="goTopBtn" class="btn btn-primary">
+        <i class="fa fa-angle-up"></i>
+    </button>
+
+    <div class="d-flex gap-3 align-items-center d-md-block">
+        <a href="tel:+917081123339" class="floating-call-button px-4 py-2" aria-label="Call icon">
+            <div>
+                <i class="fa-solid fa-phone" aria-hidden="true" style="color: white!important;" aria-label="Phone icon"></i>
+            </div>
+        </a>
+
+        <!-- WhatsApp Chat Icon -->
+        <a href="https://api.whatsapp.com/send?phone=+917081123339&text=Hello, I'm interested in your cab options, pricing, and booking process. Could you also let me know about any current offers? Thank you!" target="_blank" aria-label="Whatsapp icon" class="floating-call-button px-4 py-2 bg-success mb-md-2" id="whatsappChatIcon">
+            <div>
+                <i class="fa-brands fa-whatsapp" aria-hidden="true" style="color: white!important;" aria-label="WhatsApp icon"></i>
+            </div>
+        </a>
+    </div>
+        <div id="loginModal" class="modal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content p-0">
+            <div class="modal-header p-3">
+                <p class="modal-title m-0 w-100 text-center text-white" style="font-size: 18px; line-height: 25px;" id="modalTitle">
+                    Welcome to HurryUp Cab
+                </p>
+            </div>
+
+            <div class="modal-body">
+                <form autoComplete="nope" onsubmit="return false;">
+                    <input type="hidden" name="_token" value="ndXvzZa8FyoyikPzg0xrZ1aUFmH33jwHEXPZcjVW" autocomplete="off">
+                    <div class="rentalBookings">
+
+                        <div class="item form-group p-0 m-0">
+                            <div class="py-1">
+                                <label class="text-secondary" style="font-size: 12px;margin-bottom: -15px;" for="login_user_mobile_no">Enter
+                                    Mobile No. <span>*</span>
+                                </label>
+                                <div class="border rounded d-flex align-items-center">
+                                    <input type="text" class="form-control border-0 shadow-none" value="+91" style="width: 2rem; padding: 0; background: none; margin-left: 0.5rem;" disabled>
+                                    <input class="form-control border-0 shadow-none" name="booking_user_mobile_no" id="login_user_mobile_no" value="" placeholder="Enter mobile number" type="text" maxlength="10" pattern="[1-9][0-9]{9}" inputmode="numeric" autoComplete="nope" oninput="this.value = this.value.replace(/[^0-9]/g, '').replace(/^0+/, '').slice(0, 10)" onpaste="return false;">
+                                    <div class="ms-auto">
+                                        <i class="fa-solid fa-mobile-screen text-light me-2"></i>
+                                    </div>
+                                </div>
+                                <p id="errorMessagePhno" class="mb-0 text-danger d-none"></p>
+                            </div>
+
+                            <div class="py-1" id="userNameField">
+                                <label class="text-secondary" style="font-size: 12px;margin-bottom: -15px;" for="login_user_name">Enter Name <span>*</span>
+                                </label>
+                                <div class="border rounded d-flex align-items-center">
+                                    <input class="form-control border-0 shadow-none" name="booking_user_name" id="login_user_name" value="" placeholder="Enter Name" type="text" autoComplete="off">
+                                    <div class="ms-auto">
+                                        <i class="fa-solid fa-user text-light me-2"></i>
+                                    </div>
+                                </div>
+                                <p id="errorMessageName" class="mb-0 text-danger d-none"></p>
+                            </div>
+
+                            <!-- OTP Section (Initially Hidden) -->
+                            <div class="py-1 otp-section" id="otpSection" style="display: none; ">
+                                <label class="text-secoundary" style="font-size: 12px;margin-bottom: -15px;" for="otp">Enter OTP
+                                </label>
+                                <div class="otp-inputs">
+                                    <input type="text" id="otp" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                    <input type="text" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                    <input type="text" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                    <input type="text" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                </div>
+                                <p id="errorMessageOtp" class="mb-0 text-danger d-none"></p>
+                                <div style=" text-align:end" class="pt-2">
+                                    <label class="font-bold" style="font-size: 12px;" id="resendOTP">Resend OTP</label>
+                                    <label class="font-bold d-none" style="font-size: 12px;" id="countdown"></label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="px-0 pt-4 d-flex modal-footer mb-0">
+                        <button type="button" data-bs-dismiss="modal" aria-label="Close" class="me-2 closeModal btn smallText p-2 m-0 bg-none shadow-none mx-auto flex-grow-1 border-2 border fw-bold">
+                            CANCEL
+                        </button>
+                        <button type="submit" id="otpButton" class="fw-bold btn smallText p-2 m-0 actionBtn mx-auto bg-secondary ms-2 flex-grow-1">
+                            VERIFY
+                        </button>
+                        <button type="button" id="verifyOTP" data-type="Welcome to HurryUp Cab" class="btn p-2 actionBtn m-0 d-none mx-auto fw-bold ms-2 flex-grow-1">
+                            NEXT
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="acceptBookingModel" class="modal align-items-center place-items-center">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content modal-content-centered px-md-4 px-3 pb-2 mx-auto">
+            <div class="modal-header">
+                <p class="m-0" style=" font-size: 18px;  ">
+                    Accept Booking
+                </p>
+                <span class="close closeModal">×</span>
+            </div>
+
+            <div class="modal-body rentalBookings">
+                <p class="text-center text-secondary" style="font-size: 14px;">Are you sure you want to accept this
+                    booking
+                    for your trip? Your pickup location and
+                    drop location is as mentioned by driver, changes of locations depends upon your and driver mutual
+                    understanding.</p>
+                <p class="text-center">Pickup: <span id="pickup"></span></p>
+                <p class="text-center fw-bold" style="margin-top: -15px;"><span class="text-success" id="time"></span>
+                </p>
+            </div>
+
+            <div class="row modal-footer">
+                <button type="button" id="confirmBooking" class="btn actionBtn fs-6 p-2 m-0" style="width: 100%">
+                    Confirm Booking
+                </button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    // Check if ApiRoutes is already defined; if not, initialize it
+    if (typeof ApiRoutes === 'undefined') {
+        var ApiRoutes = {};
+    }
+
+    ApiRoutes['getUser'] = "https://hurryupcabs.com/user";
+    ApiRoutes['registerUser'] = "https://hurryupcabs.com/register-user";
+    ApiRoutes['sendOTP'] = "https://hurryupcabs.com/return-booking/sendOTP";
+    ApiRoutes['verifyOTP'] = "https://hurryupcabs.com/return-booking/verifyOTP";
+
+    console.log('Updated Global Variables', ApiRoutes);
+</script>
+
+
+<script src="https://hurryupcabs.com/assets/js/pages/login_modal.js?v=1763728736"></script>
+
+            <div id="loginModal" class="modal" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content p-0">
+            <div class="modal-header p-3">
+                <p class="modal-title m-0 w-100 text-center text-white" style="font-size: 18px; line-height: 25px;" id="modalTitle">
+                    Welcome to HurryUp Cab
+                </p>
+            </div>
+
+            <div class="modal-body">
+                <form autoComplete="nope" onsubmit="return false;">
+                    <input type="hidden" name="_token" value="ndXvzZa8FyoyikPzg0xrZ1aUFmH33jwHEXPZcjVW" autocomplete="off">
+                    <div class="rentalBookings">
+
+                        <div class="item form-group p-0 m-0">
+                            <div class="py-1">
+                                <label class="text-secondary" style="font-size: 12px;margin-bottom: -15px;" for="login_user_mobile_no">Enter
+                                    Mobile No. <span>*</span>
+                                </label>
+                                <div class="border rounded d-flex align-items-center">
+                                    <input type="text" class="form-control border-0 shadow-none" value="+91" style="width: 2rem; padding: 0; background: none; margin-left: 0.5rem;" disabled>
+                                    <input class="form-control border-0 shadow-none" name="booking_user_mobile_no" id="login_user_mobile_no" value="" placeholder="Enter mobile number" type="text" maxlength="10" pattern="[1-9][0-9]{9}" inputmode="numeric" autoComplete="nope" oninput="this.value = this.value.replace(/[^0-9]/g, '').replace(/^0+/, '').slice(0, 10)" onpaste="return false;">
+                                    <div class="ms-auto">
+                                        <i class="fa-solid fa-mobile-screen text-light me-2"></i>
+                                    </div>
+                                </div>
+                                <p id="errorMessagePhno" class="mb-0 text-danger d-none"></p>
+                            </div>
+
+                            <div class="py-1" id="userNameField">
+                                <label class="text-secondary" style="font-size: 12px;margin-bottom: -15px;" for="login_user_name">Enter Name <span>*</span>
+                                </label>
+                                <div class="border rounded d-flex align-items-center">
+                                    <input class="form-control border-0 shadow-none" name="booking_user_name" id="login_user_name" value="" placeholder="Enter Name" type="text" autoComplete="off">
+                                    <div class="ms-auto">
+                                        <i class="fa-solid fa-user text-light me-2"></i>
+                                    </div>
+                                </div>
+                                <p id="errorMessageName" class="mb-0 text-danger d-none"></p>
+                            </div>
+
+                            <!-- OTP Section (Initially Hidden) -->
+                            <div class="py-1 otp-section" id="otpSection" style="display: none; ">
+                                <label class="text-secoundary" style="font-size: 12px;margin-bottom: -15px;" for="otp">Enter OTP
+                                </label>
+                                <div class="otp-inputs">
+                                    <input type="text" id="otp" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                    <input type="text" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                    <input type="text" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                    <input type="text" class="otp-input" maxlength="1" pattern="[0-9]*" inputmode="numeric">
+                                </div>
+                                <p id="errorMessageOtp" class="mb-0 text-danger d-none"></p>
+                                <div style=" text-align:end" class="pt-2">
+                                    <label class="font-bold" style="font-size: 12px;" id="resendOTP">Resend OTP</label>
+                                    <label class="font-bold d-none" style="font-size: 12px;" id="countdown"></label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="px-0 pt-4 d-flex modal-footer mb-0">
+                        <button type="button" data-bs-dismiss="modal" aria-label="Close" class="me-2 closeModal btn smallText p-2 m-0 bg-none shadow-none mx-auto flex-grow-1 border-2 border fw-bold">
+                            CANCEL
+                        </button>
+                        <button type="submit" id="otpButton" class="fw-bold btn smallText p-2 m-0 actionBtn mx-auto bg-secondary ms-2 flex-grow-1">
+                            VERIFY
+                        </button>
+                        <button type="button" id="verifyOTP" data-type="Welcome to HurryUp Cab" class="btn p-2 actionBtn m-0 d-none mx-auto fw-bold ms-2 flex-grow-1">
+                            NEXT
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="acceptBookingModel" class="modal align-items-center place-items-center">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content modal-content-centered px-md-4 px-3 pb-2 mx-auto">
+            <div class="modal-header">
+                <p class="m-0" style=" font-size: 18px;  ">
+                    Accept Booking
+                </p>
+                <span class="close closeModal">×</span>
+            </div>
+
+            <div class="modal-body rentalBookings">
+                <p class="text-center text-secondary" style="font-size: 14px;">Are you sure you want to accept this
+                    booking
+                    for your trip? Your pickup location and
+                    drop location is as mentioned by driver, changes of locations depends upon your and driver mutual
+                    understanding.</p>
+                <p class="text-center">Pickup: <span id="pickup"></span></p>
+                <p class="text-center fw-bold" style="margin-top: -15px;"><span class="text-success" id="time"></span>
+                </p>
+            </div>
+
+            <div class="row modal-footer">
+                <button type="button" id="confirmBooking" class="btn actionBtn fs-6 p-2 m-0" style="width: 100%">
+                    Confirm Booking
+                </button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    // Check if ApiRoutes is already defined; if not, initialize it
+    if (typeof ApiRoutes === 'undefined') {
+        var ApiRoutes = {};
+    }
+
+    ApiRoutes['getUser'] = "https://hurryupcabs.com/user";
+    ApiRoutes['registerUser'] = "https://hurryupcabs.com/register-user";
+    ApiRoutes['sendOTP'] = "https://hurryupcabs.com/return-booking/sendOTP";
+    ApiRoutes['verifyOTP'] = "https://hurryupcabs.com/return-booking/verifyOTP";
+
+    console.log('Updated Global Variables', ApiRoutes);
+</script>
+
+
+<script src="https://hurryupcabs.com/assets/js/pages/login_modal.js?v=1763728736"></script>
+        <footer class="footer mt-0 px-0 py-3">
+    <section class="d-flex flex-column align-items-center">
+        <div class="d-flex w-100 flex-column border-bottom footer_padding py-2 cityNames">
+            <div class="d-flex w-100 justify-content-between">
+                <div class="d-flex w-100 flex-column cities">
+                    <div id="hideShow">
+                        <p class="text-justify" style="font-size:.8rem"><span class="fw-bold" style="color:#fff!important">AVAILABLE IN </span>
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-himachal-pradesh">Himachal Pradesh</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-gujarat">Gujarat</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-maharashtra">Maharashtra</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-madhya-pradesh">Madhya Pradesh</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-karnataka">Karnataka</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-tamilnadu">Tamil Nadu</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-odisha">Odisha</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-jammu-and-kashmir">Jammu and Kashmir</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-haryana">Haryana</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-bihar">Bihar</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-goa">Goa</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-telangana">Telangana</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-west-bengal">West Bengal</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-uttarakhand">Uttarakhand</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-uttar-pradesh">Uttar Pradesh</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-kerala">Kerala</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-assam">Assam</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/cab-service-in-rajasthan">Rajasthan</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/punjab">Punjab</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/andhra-pradesh">Andhra Pradesh</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/jharkhand">Jharkhand</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/chhattisgarh">Chhattisgarh</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/meghalaya">Meghalaya</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/manipur">Manipur</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/sikkim">Sikkim</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/arunachal-pradesh">Arunachal Pradesh</a>
+                                |
+                                                            <a href="https://hurryupcabs.com/state/tripura">Tripura</a>
+                                |
+                                                </p></div>
+                    <button aria-controls="cityCollapse" aria-expanded="false" class="text-white btn mt-2 p-1 shadow-none" data-bs-target="#cityCollapse" data-bs-toggle="collapse" id="hideShowBtn" style="font-size:14px" type="button"><i class="fa fa-plus"></i> Explore More
+                        States</button>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex w-100 flex-column border-bottom footer_padding py-2 bookAmbulance categories">
+            <div class="bookAmbulance-content">
+                <div class="mb-0"><a href="https://hurryupcabs.com/one-way-cabs">ONE WAY CAB </a>| <a href="https://hurryupcabs.com/car-rental">CAR RENTAL </a>| <a href="https://hurryupcabs.com/luxury-car-rentals">LUXURY CAR RENTAL </a>| <a href="/">STAND BY </a>| <a href="/">LOCAL </a>| <a href="/">ROUND TRIPS </a>| <a href="https://hurryupcabs.com/return-booking">RETURN
+                        TRIPS </a>| <a href="/">B2B BOOKINGS </a>| <a href="https://hurryupcabs.com/tempo-traveller-on-rent">TEMPO
+                        TRAVELLER
+                    </a>| <a href="/">PET FRIENDLY CAB </a>| <a href="/">BUS </a>| <a href="https://hurryupcabs.com/taxi/airport">AIRPORT TAXI </a>| <a href="https://hurryupcabs.com/monthly-rental">MONTHLY RENTALS </a>| <a href="/">CORPORATE CABS </a>| <a href="https://hurryupcabs.com/taxi">TAXI </a>| <a href="https://hurryupcabs.com/cab">CAB </a>| <a href="https://hurryupcabs.com/state">STATE </a>| <a href="https://hurryupcabs.com/city">CITY </a>| <a href="https://hurryupcabs.com/outstation">OUTSTATION </a>| <a href="https://hurryupcabs.com/hire-driver">HIRE
+                        DRIVER </a>| <a href="/">CHAUFFEUR </a>| <a href="https://hurryupcabs.com/drivers">DRIVER </a>| <a href="https://hurryupcabs.com/mahakumbh-prayagraj-2025">MAHAKUMBH PRAYAGRAJ</a>| <a href="https://hurryupcabs.com/char-dham-yatra-taxi-service">CHAR DHAM YATRA 2025</a></div>
+            </div>
+        </div>
+        <div class="d-flex w-100 border-bottom footer_padding py-2 justify-content-center contact">
+            <p class="text-center"><a href="https://hurryupcabs.com/taxi-service-in-indias-top-cities" class="mb-2 mb-sm-0 px-2 border-right d-inline-block border-1">Top
+                    Cities</a><a href="https://hurryupcabs.com/top-cities-routes" class="mb-2 mb-sm-0 px-2 border-right d-inline-block border-1">Top
+                    Cities Routes</a> <a href="https://hurryupcabs.com/contact" class="mb-2 mb-sm-0 px-2 border-right d-inline-block border-1">Contact
+                    Us</a> <a href="https://hurryupcabs.com/term-and-condition" class="mb-2 mb-sm-0 px-2 border-right d-inline-block border-1">Terms
+                    &amp; Conditions</a> <a href="https://hurryupcabs.com/shipping-delivery" class="mb-2 mb-sm-0 px-2 border-right d-inline-block border-1">Shipping
+                    Policy</a> <a href="https://hurryupcabs.com/privacy-policy" class="mb-2 mb-sm-0 px-2 border-right d-inline-block border-1">Privacy
+                    Policy</a> <a href="https://hurryupcabs.com/refund-policy" class="mb-2 mb-sm-0 px-2 border-right d-inline-block">Refund
+                    Policy</a> <a href="https://hurryupcabs.com/sitemap.xml" class="mb-2 mb-sm-0 px-2">Sitemap</a>
+        </p></div>
+        <div class="d-flex w-100 border-bottom footer_padding py-2 justify-content-center address gap-2">
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0"><img alt="Location icon" height="9px" loading="lazy" src="https://hurryupcabs.com/assets/images/icons/location.png" title="location" width="9px"></div>
+                <p>Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010
+            </p></div>
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><img alt="Phone icon" height="12px" loading="lazy" src="https://hurryupcabs.com/assets/images/icons/call.png" title=" Phone icon " width="12px"></div><a href="tel:+91 708-112-3339">+91 708-112-3339</a>
+            </div>
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><img alt="Mail icon" height="12px" loading="lazy" src="https://hurryupcabs.com/assets/images/icons/mail.png" title="Mail" width="12px"></div>
+                <p>support@hurryupcabs.com
+            </p></div>
+
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><i style="font-size: 12.625px !important; color:var(--acs-grey-20) !important; margin-right:0.6rem;" class="fa-brands fa-facebook" aria-hidden="true" title="Facebook"></i></div>
+                <a href="https://m.facebook.com/Hurryupcabs/" target="_blank" aria-label="Facebook - HurryUp Cabs" class="ms-2">Facebook</a>
+            </div>
+
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><i style="font-size: 12.625px !important; color:var(--acs-grey-20) !important; margin-right:0.6rem;" class="fa-brands fa-linkedin fs-5" aria-hidden="true" title="LinkedIn"></i></div>
+                <a href="https://in.linkedin.com/company/hurryup-cabs" target="_blank" aria-label="LinkedIn - HurryUp Cabs" class="ms-2">LinkedIn</a>
+            </div>
+
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><i style="font-size: 12.625px !important; color:var(--acs-grey-20) !important; margin-right:0.6rem;" class="fa-brands fa-instagram fs-5" aria-hidden="true" title="Instagram"></i></div>
+                <a href="https://www.instagram.com/hurryup_cabs/?hl=en" target="_blank" aria-label="Instagram - HurryUp Cabs" class="ms-2">Instagram</a>
+            </div>
+
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><i style="font-size: 12.625px !important; color:var(--acs-grey-20) !important; margin-right:0.6rem;" class="fa-brands fa-twitter fs-5" aria-hidden="true" title="Twitter"></i></div>
+                <a href="https://twitter.com/hurryupcabs" target="_blank" aria-label="Twitter - HurryUp Cabs" class="ms-2">Twitter</a>
+            </div>
+
+            <div class="d-flex align-items-center justify-content-center elem text-center">
+                <div class="m-0 ms-md-2"><i style="font-size: 12.625px !important; color:var(--acs-grey-20) !important; margin-right:0.6rem;" class="fa-brands fa-youtube fs-5" aria-hidden="true" title="YouTube"></i></div>
+                <a href="https://youtube.com/@hurryupcabs9224?si=Qw9B7p_xilydXhYa" target="_blank" aria-label="YouTube - HurryUp Cabs" class="ms-2">YouTube</a>
+            </div>
+        </div>
+        <div class="d-flex w-100 justify-content-center align-items-center pt-3">
+            <p class="text-center m-0">© 2024 <a href="http://innovativemodernengineers.com" style="color:#ffc107!important">Innovative Modern Engineers PVT. LTD </a>, All rights reserved.
+        </p></div>
+    </section>
+</footer>
+<style>
+    /* Hide on screens smaller than 768px (mobile) */
+    @media (max-width: 768px) {
+    .booking-summary {
+        display: none !important;
+    }
+    }
+</style>
+
+    <!-- Hot map -->
+    
+
+
+            <script src="https://hurryupcabs.com/assets/js/pages/service_form2.js?v=1763728736"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr" defer></script>
+    <script defer src="https://hurryupcabs.com/assets/js/bootstrap.min.js"></script>
+    <script defer src="https://hurryupcabs.com/assets/js/slick.min.js"></script>
+    <script defer src="https://hurryupcabs.com/assets/js/acs-hup.js"></script>
+    <script async src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous">
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js" defer></script>
+    <script defer src="https://hurryupcabs.com/assets/js/pages/custom_splide.js"></script>
+    <script defer src="https://hurryupcabs.com/assets/js/pages/footer.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            // Show or hide the button when scrolling
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > 100) {
+                    $('#goTopBtn').fadeIn();
+                } else {
+                    $('#goTopBtn').fadeOut();
+                }
+            });
+
+            // Scroll to top when button is clicked
+            $('#goTopBtn').click(function() {
+                $('html, body').animate({
+                    scrollTop: 0
+                }, 'slow');
+                return false;
+            });
+
+
+            $('#liveToast').toast({
+                delay: 10000
+            });
+            $('#liveToast').toast('show');
+            // const toastTrigger = document.getElementById('liveToastBtn');
+            // const toastLiveExample = document.getElementById('liveToast');
+
+            // if (toastTrigger) {
+            //     const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample, {
+            //         delay: 10000,
+            //     });
+
+            //     toastTrigger.addEventListener('click', () => {
+            //         toastBootstrap.show();
+            //     });
+            // }
+
+            // $("#liveToastBtn").click();
+        });
+    </script>
+
+</body>
+
+</html>
