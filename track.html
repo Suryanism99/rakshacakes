@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Track Order</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="track.html">Track</a>
+</nav>
+
+<div class="card fade">
+    <h2>Track Your Order</h2>
+    <input id="trackId" placeholder="Enter Order ID">
+    <button onclick="track()">Track</button>
+
+    <p id="status"></p>
+</div>
+
+<script>
+function track(){
+    let id = document.getElementById("trackId").value;
+
+    fetch("orders.json")
+    .then(res => res.json())
+    .then(data => {
+        if(data[id]) {
+            document.getElementById("status").innerHTML =
+            "Status: " + data[id].status;
+        } else {
+            document.getElementById("status").innerHTML =
+            "No order found.";
+        }
+    });
+}
+</script>
+
+</body>
+</html>
