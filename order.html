@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Cake</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="menu.html">Menu</a>
+    <a href="order.html">Order</a>
+</nav>
+
+<div class="card fade">
+    <h2>Place Your Order</h2>
+
+    <input id="name" placeholder="Your Name">
+    <input id="phone" placeholder="Phone Number">
+    <input id="cake" placeholder="Cake Name">
+    <input id="qty" type="number" placeholder="Quantity (Kg)">
+    <textarea id="msg" placeholder="Message on Cake"></textarea>
+
+    <button onclick="submitOrder()">Submit Order</button>
+</div>
+
+<script>
+function submitOrder() {
+    let orderId = "RKS" + Math.floor(Math.random() * 99999);
+
+    let name = document.getElementById("name").value;
+    let phone = document.getElementById("phone").value;
+    let cake = document.getElementById("cake").value;
+    let qty = document.getElementById("qty").value;
+    let msg = document.getElementById("msg").value;
+
+    let whatsappMessage =
+`New Cake Order
+Order ID: ${orderId}
+
+Name: ${name}
+Phone: ${phone}
+Cake: ${cake}
+Kg: ${qty}
+Message: ${msg}
+
+Open Admin Panel to update tracking.`;
+
+    window.open(
+        "https://api.whatsapp.com/send?phone=916380083803&text=" 
+        + encodeURIComponent(whatsappMessage),
+        "_blank"
+    );
+
+    alert("Order Submitted! Your Order ID: " + orderId);
+}
+</script>
+
+</body>
+</html>
